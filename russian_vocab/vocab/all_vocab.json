@@ -1,0 +1,6813 @@
+﻿{
+	"Foundations": {
+		"Oral Exam": {
+			"Weather": [{
+					"russian": "Погода",
+					"english": "weather"
+				}, {
+					"russian": "снег",
+					"english": "snow"
+				}, {
+					"english": "frost",
+					"russian": "мороз"
+				}, {
+					"english": "cloud/s",
+					"russian": "облако/а"
+				}, {
+					"english": "sun",
+					"russian": "солнце"
+				}, {
+					"english": "strong",
+					"russian": "сильный "
+				}, {
+					"english": "weak",
+					"russian": "слабый"
+				}, {
+					"english": "wind",
+					"russian": "ветер"
+				}, {
+					"russian": "высокая температура",
+					"english": "high temperature"
+				}, {
+					"russian": "низкая температура",
+					"english": "low temperature"
+				}, {
+					"russian": "тепло/теплый",
+					"english": "warm"
+				}, {
+					"english": "cold",
+					"russian": "холодно/холодный"
+				}, {
+					"english": "degrees (5+)",
+					"russian": "градусов"
+				}, {
+					"english": "minus",
+					"russian": "минус"
+				}, {
+					"english": "plus",
+					"russian": "плюс"
+				}, {
+					"english": "sunny day",
+					"russian": "солнечный день"
+				}, {
+					"english": "overcast day",
+					"russian": "пасмурный день"
+				}, {
+					"english": "cool",
+					"russian": "прохладно"
+				}, {
+					"english": "cloudy",
+					"russian": "облачно"
+				}, {
+					"english": "wear",
+					"russian": "носить"
+				}, {
+					"english": "coat",
+					"russian": "пальто"
+				}, {
+					"english": "jacket",
+					"russian": "куртка"
+				}, {
+					"english": "scarf",
+					"russian": "шарф"
+				}, {
+					"english": "hat",
+					"russian": "шапка"
+				}, {
+					"english": "fur coat (ACC)",
+					"russian": "шубу"
+				}, {
+					"english": "boots",
+					"russian": "сапоги"
+				}, {
+					"english": "t-shirt (ACC)",
+					"russian": "футболку"
+				}, {
+					"english": "sweater",
+					"russian": "свитер"
+				}, {
+					"english": "shorts",
+					"russian": "шорты"
+				}, {
+					"english": "dress",
+					"russian": "платье"
+				}, {
+					"english": "dress-shirt",
+					"russian": "Рубашка"
+				}, {
+					"english": "put on",
+					"russian": "надеть"
+				}, {
+					"english": "need to wear",
+					"russian": "надо надеть"
+				}
+			],
+			"Summer break": [{
+					"english": "bus",
+					"russian": "Автобус"
+				}, {
+					"english": "train",
+					"russian": "поезд"
+				}, {
+					"english": "airplane",
+					"russian": "самолёт"
+				}, {
+					"english": "go",
+					"russian": "ехать/поехать"
+				}, {
+					"english": "to leave",
+					"russian": "уехать"
+				}, {
+					"english": "arrive",
+					"russian": "приехать"
+				}, {
+					"english": "fly",
+					"russian": "лететь/ полететь"
+				}, {
+					"english": "abroad",
+					"russian": "за границу"
+				}, {
+					"english": "money",
+					"russian": "деньги"
+				}, {
+					"english": "credit card",
+					"russian": "кредитная карточка"
+				}, {
+					"english": "suitcase",
+					"russian": "чемодан"
+				}, {
+					"english": "put in a suitcase",
+					"russian": "положить в чемодан"
+				}, {
+					"english": "clothes",
+					"russian": "одежда"
+				}, {
+					"english": "footwear",
+					"russian": "обувь"
+				}, {
+					"english": "trousers",
+					"russian": "брюки"
+				}, {
+					"english": "jeans",
+					"russian": "джинсы"
+				}, {
+					"english": "blouse",
+					"russian": "кофта"
+				}, {
+					"english": "swimsuit",
+					"russian": "купальник"
+				}, {
+					"english": "swimming trunks",
+					"russian": "плавки"
+				}, {
+					"english": "sneakers",
+					"russian": "кроссовки"
+				}, {
+					"english": "sun glasses",
+					"russian": "солнечные очки"
+				}, {
+					"english": "toothebrush",
+					"russian": "зубная щетка"
+				}, {
+					"english": "toothepaste",
+					"russian": "зубная паста"
+				}, {
+					"english": "bag",
+					"russian": "сумка"
+				}, {
+					"english": "to swim, bathe",
+					"russian": "купаться"
+				}, {
+					"english": "to swim",
+					"russian": "плавать"
+				}, {
+					"english": "sunbathe",
+					"russian": "загорать"
+				}, {
+					"english": "relax",
+					"russian": "отдыхать"
+				}, {
+					"english": "interested in",
+					"russian": "интересоваться (+Instr.)"
+				}, {
+					"english": "involved in",
+					"russian": "увлекаться (+Instr.)"
+				}, {
+					"english": "engaged in",
+					"russian": "заниматься(+ Instr.)"
+				}, {
+					"english": "train",
+					"russian": "тренироваться"
+				}, {
+					"english": "dance",
+					"russian": "танцевать"
+				}, {
+					"english": "walk in the forest",
+					"russian": "гулять в лесу"
+				}, {
+					"english": "go camping",
+					"russian": "ходить в походы"
+				}, {
+					"english": "play volleyball",
+					"russian": "играть в волейбол"
+				}, {
+					"english": "play guitar",
+					"russian": "играть на гитаре"
+				}, {
+					"english": "play computer games",
+					"russian": "играть в компьютерные игры"
+				}, {
+					"english": "skate",
+					"russian": "кататься на коньках"
+				}, {
+					"english": "to ski",
+					"russian": "кататься на лыжах"
+				}, {
+					"english": "to ride a horse",
+					"russian": "кататься на лошади"
+				}, {
+					"english": "to ride a bike",
+					"russian": "кататься на велосипеде"
+				}, {
+					"english": "lie on the sofa",
+					"russian": "лежать на диване"
+				}, {
+					"english": "to speak, converse (with friends, family)",
+					"russian": "разговаривать (с друзьями, с семьей)"
+				}
+			],
+			"Party": [{
+					"english": "invite",
+					"russian": "Приглашать/пригласить"
+				}, {
+					"english": "birthday",
+					"russian": "день рождения"
+				}, {
+					"english": "party",
+					"russian": "вечеринка"
+				}, {
+					"english": "celebration",
+					"russian": "праздник"
+				}, {
+					"english": "to communicate",
+					"russian": "общаться"
+				}, {
+					"english": "to raise a glass for",
+					"russian": "поднимать бокал за (Accus.)"
+				}, {
+					"english": "say a toast (for friendship, for us, etc.)",
+					"russian": "сказать тост (за дружбу, за нас, etc.)"
+				}, {
+					"english": "to offer",
+					"russian": "предлагать/предложить"
+				}, {
+					"english": "to serve",
+					"russian": "подавать/подать"
+				}, {
+					"english": "to cook",
+					"russian": "готовить/приготовить"
+				}, {
+					"english": "to pour (vodka, water, juice, champagne, tea",
+					"russian": "наливать/ налить (водку, воду, сок, шампанское, чай)"
+				}, {
+					"english": "to refuse (vodka, tea)",
+					"russian": "отказываться/отказаться (от водки, чая)"
+				}, {
+					"english": "to give",
+					"russian": "дарить/подарить"
+				}, {
+					"english": "hungry",
+					"russian": "голоден/голодна"
+				}, {
+					"english": "full",
+					"russian": "сыт/сыта"
+				}, {
+					"english": "meat",
+					"russian": "мясо "
+				}, {
+					"english": "beef",
+					"russian": "говядина"
+				}, {
+					"english": "pork",
+					"russian": "свинина"
+				}, {
+					"english": "lamb",
+					"russian": "баранина"
+				}, {
+					"english": "chicken",
+					"russian": "курица"
+				}, {
+					"english": "turkey",
+					"russian": "индейка"
+				}, {
+					"english": "vegetables",
+					"russian": "овощи "
+				}, {
+					"english": "potatoes",
+					"russian": "картофель"
+				}, {
+					"english": "greens",
+					"russian": "зелень"
+				}, {
+					"english": "rice",
+					"russian": "рис"
+				}, {
+					"english": "fruits",
+					"russian": "фрукты "
+				}, {
+					"english": "apples",
+					"russian": "яблоки"
+				}, {
+					"english": "peaches",
+					"russian": "персики"
+				}, {
+					"english": "watermelons",
+					"russian": "арбузы"
+				}, {
+					"english": "melons",
+					"russian": "дыни"
+				}, {
+					"english": "berries",
+					"russian": "ягода"
+				}, {
+					"english": "strawberries",
+					"russian": "клубника"
+				}, {
+					"english": "rasperries",
+					"russian": "малина"
+				}, {
+					"english": "cranberries",
+					"russian": "клюква"
+				}, {
+					"english": "milk",
+					"russian": "молоко"
+				}, {
+					"english": "cottage cheese",
+					"russian": "творог"
+				}, {
+					"english": "cheese",
+					"russian": "сыр"
+				}, {
+					"english": "pie",
+					"russian": "пирог"
+				}, {
+					"english": "little pastry",
+					"russian": "пирожок"
+				}, {
+					"english": "jam",
+					"russian": "варенье"
+				}, {
+					"english": "with pleasure",
+					"russian": "с удовольствием"
+				}, {
+					"english": "unfortunately",
+					"russian": "к сожалению"
+				}, {
+					"english": "gift",
+					"russian": "подарок"
+				}, {
+					"english": "bouquet of flowers",
+					"russian": "букет цветов"
+				}
+			],
+			"Future plans": [{
+					"english": "future",
+					"russian": "Будущее"
+				}, {
+					"english": "education",
+					"russian": "образование "
+				}, {
+					"english": "higher education",
+					"russian": "высшее образование"
+				}, {
+					"english": "after graduation (school, institute)",
+					"russian": "после окончания (+ Gen. школы, института)"
+				}, {
+					"english": "become",
+					"russian": "стать/быть (+ Instr.)"
+				}, {
+					"english": "diplomat",
+					"russian": "дипломат"
+				}, {
+					"english": "police",
+					"russian": "полицейский"
+				}, {
+					"english": "military",
+					"russian": "военный"
+				}, {
+					"english": "satisfied",
+					"russian": "доволен, доволна, довольны (+Instrum.)"
+				}, {
+					"english": "go out",
+					"russian": "выйти "
+				}, {
+					"english": "get married",
+					"russian": "замуж/жениться"
+				}, {
+					"english": "be interested in",
+					"russian": "интересоваться"
+				}, {
+					"english": "get involved",
+					"russian": "увлекаться"
+				}, {
+					"english": "do, engage in",
+					"russian": "заниматься"
+				}, {
+					"english": "dream",
+					"russian": "мечтать "
+				}, {
+					"english": "I dream of becoming a librarian",
+					"russian": "Я мечтаю стать библиотекарем"
+				}, {
+					"english": "apply, get in",
+					"russian": "поступать/ поступить"
+				}, {
+					"english": "to finish",
+					"russian": "окончить"
+				}, {
+					"english": "decide",
+					"russian": "решить "
+				}, {
+					"english": "I decided to become a housewife",
+					"russian": "Я решила стать домохозяйкой"
+				}
+			],
+			"Health": [{
+					"english": "get sick",
+					"russian": "Болеть/заболеть"
+				}, {
+					"english": "to feel",
+					"russian": "чувствовать себя"
+				}, {
+					"english": "lose weight",
+					"russian": "худеть/похудеть"
+				}, {
+					"english": "I will lose weight",
+					"russian": "Я похую"
+				}, {
+					"english": "to smoke",
+					"russian": "курить"
+				}, {
+					"english": "to stop smoking",
+					"russian": "бросить курить"
+				}, {
+					"english": "catch a cold",
+					"russian": "простудиться"
+				}, {
+					"english": "accept, take",
+					"russian": "принимать/принять"
+				}, {
+					"english": "asparin",
+					"russian": "аспирин"
+				}, {
+					"english": "medicine",
+					"russian": "лекарство"
+				}, {
+					"english": "it seems",
+					"russian": "кажется "
+				}, {
+					"english": "It seems to me that he is sick",
+					"russian": "Мне кажется, что он болен"
+				}, {
+					"english": "It seems to me that he is well",
+					"russian": "Мне кажется, что он здоров"
+				}, {
+					"english": "I don't want to eat",
+					"russian": "Мне не хочется есть"
+				}, {
+					"english": "I'm sick",
+					"russian": "Меня тошнит"
+				}, {
+					"english": "Go to the doctor",
+					"russian": "пойти к врачу "
+				}, {
+					"english": "head",
+					"russian": "голова"
+				}, {
+					"english": "throat",
+					"russian": "горло"
+				}, {
+					"english": "strep throat",
+					"russian": "ангина"
+				}, {
+					"english": "leg",
+					"russian": "нога"
+				}, {
+					"english": "arm",
+					"russian": "рука"
+				}, {
+					"english": "ear/ears",
+					"russian": "ухо/уши "
+				}, {
+					"english": "clinic",
+					"russian": "поликлиника"
+				}, {
+					"english": "ambulance",
+					"russian": "скорая помощь"
+				}, {
+					"english": "call an ambulance",
+					"russian": "вызвать скорую помощь"
+				}, {
+					"english": "sick",
+					"russian": "больной "
+				}, {
+					"english": "sick (shortened adj)",
+					"russian": "болен/больна"
+				}
+			],
+			"Appearance": [{
+					"english": "to look like",
+					"russian": "Выглядеть"
+				}, {
+					"english": "dress (oneself)",
+					"russian": "одеваться "
+				}, {
+					"english": "beautiful",
+					"russian": "красиво"
+				}, {
+					"english": "fashionably",
+					"russian": "модно"
+				}, {
+					"english": "old fashioned",
+					"russian": "старомодно"
+				}, {
+					"english": "to wear",
+					"russian": "носить"
+				}, {
+					"english": "clothes (acc)",
+					"russian": "одежду"
+				}, {
+					"english": "a beard (acc)",
+					"russian": "бороду"
+				}, {
+					"english": "mustache",
+					"russian": "усы"
+				}, {
+					"english": "glasses",
+					"russian": "очки"
+				}, {
+					"english": "similar to",
+					"russian": "похож/похожа на (+Accus. Animate) "
+				}, {
+					"english": "appearance",
+					"russian": "внешность"
+				}, {
+					"english": "tall, medium height, not so tall",
+					"russian": "высокого/среднего/низкого роста"
+				}, {
+					"english": "eyes",
+					"russian": "глаза "
+				}, {
+					"english": "brown (eyes)",
+					"russian": "карие"
+				}, {
+					"english": "light-blue (pl)",
+					"russian": "голубые"
+				}, {
+					"english": "gray (eyes)",
+					"russian": "серые"
+				}, {
+					"english": "bright, light (pl)",
+					"russian": "светлые"
+				}, {
+					"english": "dark (pl)",
+					"russian": "темные"
+				}, {
+					"english": "hair",
+					"russian": "волосы "
+				}, {
+					"english": "long (pl)",
+					"russian": "длинные"
+				}, {
+					"english": "short (pl)",
+					"russian": "короткие"
+				}, {
+					"english": "red (hair, pl)",
+					"russian": "рыжие"
+				}, {
+					"english": "curly (pl)",
+					"russian": "кучерявые"
+				}, {
+					"english": "wavy (pl)",
+					"russian": "волнистые"
+				}, {
+					"english": "brown haired",
+					"russian": "шатен/ка "
+				}, {
+					"english": "blonde",
+					"russian": "блондин/ка"
+				}, {
+					"english": "figure",
+					"russian": "фигура  "
+				}, {
+					"english": "thin",
+					"russian": "тонкий "
+				}, {
+					"english": "slim",
+					"russian": "стройный "
+				}, {
+					"english": "full, round",
+					"russian": "полный "
+				}, {
+					"english": "strong, solid",
+					"russian": "крепкий "
+				}, {
+					"english": "scrawny",
+					"russian": "худой "
+				}, {
+					"english": "face",
+					"russian": "лицо  "
+				}, {
+					"english": "oval",
+					"russian": "овальное "
+				}, {
+					"english": "long (face)",
+					"russian": "длинное "
+				}, {
+					"english": "round (face)",
+					"russian": "круглое "
+				}, {
+					"english": "nose",
+					"russian": "нос  "
+				}, {
+					"english": "straight",
+					"russian": "прямой "
+				}, {
+					"english": "with a hump (nose)",
+					"russian": "с горбинкой "
+				}, {
+					"english": "snub (nose)",
+					"russian": "курносый "
+				}, {
+					"english": "mouth",
+					"russian": "рот  "
+				}, {
+					"english": "little",
+					"russian": "маленький "
+				}, {
+					"english": "big",
+					"russian": "большой "
+				}, {
+					"english": "lips",
+					"russian": "губы  "
+				}, {
+					"english": "full (lips)",
+					"russian": "полные "
+				}, {
+					"english": "thin (lips)",
+					"russian": "тонкие "
+				}, {
+					"english": "ears",
+					"russian": "уши"
+				}, {
+					"english": "skin",
+					"russian": "кожа  "
+				}, {
+					"english": "pale",
+					"russian": "бледная "
+				}, {
+					"english": "dark, olive",
+					"russian": "смуглая "
+				}, {
+					"english": "light (skin)",
+					"russian": "светлая "
+				}, {
+					"english": "character traits",
+					"russian": "черты характера "
+				}, {
+					"english": "happy",
+					"russian": "веселый "
+				}, {
+					"english": "sad",
+					"russian": "грустный "
+				}, {
+					"english": "smart",
+					"russian": "умный "
+				}, {
+					"english": "serious",
+					"russian": "серьезный "
+				}, {
+					"english": "pretty",
+					"russian": "симпатичный "
+				}, {
+					"english": "beautiful",
+					"russian": "красивый "
+				}, {
+					"english": "kind",
+					"russian": "добрый "
+				}, {
+					"english": "footwear",
+					"russian": "обувь  "
+				}, {
+					"english": "comfortable (footwear)",
+					"russian": "удобная "
+				}, {
+					"english": "on high heals",
+					"russian": "на высоких каблуках "
+				}, {
+					"english": "sneakers",
+					"russian": "кроссовки "
+				}, {
+					"english": "shoes",
+					"russian": "туфли "
+				}, {
+					"english": "boots",
+					"russian": "сапоги "
+				}, {
+					"english": "slippers",
+					"russian": "тапочки "
+				}
+			],
+			"Study, career": [{
+					"english": "University",
+					"russian": "Университет "
+				}, {
+					"english": "expensive",
+					"russian": "дорогой "
+				}, {
+					"english": "old",
+					"russian": "старый"
+				}, {
+					"english": "good",
+					"russian": "хороший"
+				}, {
+					"english": "famous",
+					"russian": "знаменитый"
+				}, {
+					"english": "in the first year",
+					"russian": "на первом курсе"
+				}, {
+					"english": "in the philology department",
+					"russian": "на филологическом факультете"
+				}, {
+					"english": "in the department of history",
+					"russian": "на факультете истории"
+				}, {
+					"english": "subject",
+					"russian": "предметы"
+				}, {
+					"english": "apply / get in",
+					"russian": "поступать/поступить"
+				}, {
+					"english": "to finish",
+					"russian": "окончить"
+				}, {
+					"english": "to become",
+					"russian": "стать/быть (+Inst.)"
+				}, {
+					"english": "get involved",
+					"russian": "увлекаться (+Instr.)"
+				}, {
+					"english": "engage",
+					"russian": "заниматься "
+				}, {
+					"english": "study",
+					"russian": "учиться"
+				}, {
+					"english": "to study",
+					"russian": "изучать"
+				}, {
+					"english": "to be interested in",
+					"russian": "интересоваться (+Instr.)"
+				}, {
+					"english": "satisfied",
+					"russian": "доволен<br>довольна<br>довольны "
+				}
+			]
+		},
+		"Chapter 1": {
+			"Part 1": [{
+					"english": "association",
+					"russian": "ассоциа́ция"
+				}, {
+					"english": "B.A. holder",
+					"russian": "бакала́вр"
+				}, {
+					"english": "bachelor's degree",
+					"russian": "бакала́врская сте́пень"
+				}, {
+					"english": "interrogatory, question (adj)",
+					"russian": "вопроси́тельно | вопроси́тельный"
+				}, {
+					"english": "raising, upbringing",
+					"russian": "воспита́ние"
+				}, {
+					"english": "well-raised, well-brought-up, well-bred",
+					"russian": "воспи́танный"
+				}, {
+					"english": "raise, bring up, rear",
+					"russian": "воспи́тывать|воспита́ть"
+				}, {
+					"english": "memory, recollection, remembrance",
+					"russian": "воспомина́ние"
+				}, {
+					"english": "institute of higher learning",
+					"russian": "ВУЗ (вы́сшее уче́бное заведе́ние)"
+				}, {
+					"english": "graduation; finishing",
+					"russian": "выпускно́й"
+				}, {
+					"english": "higher",
+					"russian": "вы́сший"
+				}, {
+					"english": "diploma",
+					"russian": "дипло́м"
+				}, {
+					"english": "graduating thesis",
+					"russian": "дипло́мная рабо́та"
+				}, {
+					"english": "paper (for formal academic lecture)",
+					"russian": "докла́д"
+				}, {
+					"english": "doctor",
+					"russian": "до́ктор"
+				}, {
+					"english": "Russian-system full/second Ph.D. holder (“doctor of sciences”)",
+					"russian": "до́ктор нау́к"
+				}, {
+					"english": "student in a doctoral program",
+					"russian": "доктора́нт"
+				}, {
+					"english": "doctoral degree, Ph.D.",
+					"russian": "до́кторская сте́пень"
+				}, {
+					"english": "additional, extra, supplementary",
+					"russian": "дополни́тельный | дополни́тельно"
+				}, {
+					"english": "friendship",
+					"russian": "дру́жба"
+				}, {
+					"english": "be friends with X",
+					"russian": "дружи́ть | с X-INST"
+				}, {
+					"english": "do; occupy oneself with X",
+					"russian": "занима́ться | заня́ться X-INST"
+				}, {
+					"english": "note",
+					"russian": "запи́ска"
+				}, {
+					"english": "register for",
+					"russian": "запи́сываться | записа́ться на ACC"
+				}, {
+					"english": "memorize",
+					"russian": "запомина́ть | запо́мнить"
+				}, {
+					"english": "pass/fail exam; check-up exam; grade of pass on such a test",
+					"russian": "зачёт"
+				}, {
+					"english": "introduce; acquaint X with Y",
+					"russian": "знако́мить | познако́мить X-ACC с Y-INST"
+				}, {
+					"english": "acquaintance, acquaintanceship",
+					"russian": "знако́мство"
+				}, {
+					"english": "knowledge",
+					"russian": "зна́ние"
+				}, {
+					"english": "zoology",
+					"russian": "зооло́гия"
+				}, {
+					"english": "study (seriously; university-level)",
+					"russian": "изуча́ть | изучи́ть"
+				}, {
+					"english": "study of",
+					"russian": "изуче́ние"
+				}, {
+					"english": "engineering",
+					"russian": "инжене́рия"
+				}, {
+					"english": "institute (adj)",
+					"russian": "институ́тский"
+				}
+			],
+			"Part 2": [{
+					"english": "correct",
+					"russian": "исправля́ть | испра́вить"
+				}, {
+					"english": "be corrected",
+					"russian": "исправля́ться | испра́виться"
+				}, {
+					"english": "a Russian-system first Ph.D. holder (“candidate of sciences”)",
+					"russian": "кандида́т нау́к"
+				}, {
+					"english": "club, group (for a purpose or interest); little круг ‘circle’",
+					"russian": "кружок´"
+				}, {
+					"english": "cultured, civilized",
+					"russian": "культу́рный | культу́рно"
+				}, {
+					"english": "cursive; italics",
+					"russian": "курси́в"
+				}, {
+					"english": "sheet (of paper); leaf",
+					"russian": "лист´ | листы́"
+				}, {
+					"english": "master's degree",
+					"russian": "маги́стерская сте́пень"
+				}, {
+					"english": "marker",
+					"russian": "ма́ркер"
+				}, {
+					"english": "by heart",
+					"russian": "наизу́сть"
+				}, {
+					"english": "scientific",
+					"russian": "нау́чный | нау́чно"
+				}, {
+					"english": "beginner, introductory",
+					"russian": "начина́ющий"
+				}, {
+					"english": "grade of fail on a pass/fail test (зачёт)",
+					"russian": "незачёт"
+				}, {
+					"english": "uncultured, uncivilized",
+					"russian": "некультурный | некультурно"
+				}, {
+					"english": "not simple, complicated",
+					"russian": "непросто́й | | непро́сто"
+				}, {
+					"english": "leisurely, unhurried, unrushed",
+					"russian": "неторопли́вый"
+				}, {
+					"english": "scissors",
+					"russian": "но́жницы [PL]"
+				}, {
+					"english": "education",
+					"russian": "образова́ние"
+				}, {
+					"english": "educated; well-educated",
+					"russian": "образо́ванный"
+				}, {
+					"english": "instruction, training, teaching",
+					"russian": "обуче́ние"
+				}, {
+					"english": "object",
+					"russian": "объе́кт"
+				}, {
+					"english": "be explained, clarified",
+					"russian": "объясня́ться | объясни́ться"
+				}, {
+					"english": "classmate (school)",
+					"russian": "однокла́ссник | однокла́ссница"
+				}, {
+					"english": "graduate from; finish university",
+					"russian": "ока́нчивать | око́нчить"
+				}, {
+					"english": "graduation",
+					"russian": "оконча́ние"
+				}, {
+					"english": "division, deparment (general usage)",
+					"russian": "отделе́ние"
+				}
+			],
+			"Part 3": [{
+					"english": "a-student",
+					"russian": "отли́чник | отли́чница"
+				}, {
+					"english": "evaluate, assess; price, value",
+					"russian": "оце́нивать | оцени́ть"
+				}, {
+					"english": "be evaluated, assessed; priced, valued",
+					"russian": "оце́ниваться | оцени́ться"
+				}, {
+					"english": "be mistaken, make a mistake",
+					"russian": "ошиба́ться | ошиби́ться"
+				}, {
+					"english": "pedagogy, teaching methodology",
+					"russian": "педаго́гика"
+				}, {
+					"english": "repetition",
+					"russian": "повторе́ние"
+				}, {
+					"english": "become friends",
+					"russian": "| подружи́ться"
+				}, {
+					"english": "diminutive of подгру́га",
+					"russian": "подру́жка"
+				}, {
+					"english": "politics, political science",
+					"russian": "политоло́гия"
+				}, {
+					"english": "understanding",
+					"russian": "понима́ние"
+				}, {
+					"english": "handwriting",
+					"russian": "по́черк"
+				}, {
+					"english": "check; evaluate; verification",
+					"russian": "прове́рка"
+				}, {
+					"english": "check, verify",
+					"russian": "проверя́ть | прове́рить"
+				}, {
+					"english": "pass card (university)",
+					"russian": "про́пуск"
+				}, {
+					"english": "unlearn, forget how to do",
+					"russian": "разу́чиваться | разучи́ться"
+				}, {
+					"english": "register for",
+					"russian": "регистри́роваться | зарегистри́роваться на ACC"
+				}, {
+					"english": "self-evaluation",
+					"russian": "самооце́нка"
+				}, {
+					"english": "complicated, hard, difficult",
+					"russian": "сло́жный | сло́жно"
+				}, {
+					"english": "specialist",
+					"russian": "специали́ст"
+				}, {
+					"english": "degree",
+					"russian": "сте́пень"
+				}, {
+					"english": "subject",
+					"russian": "субъе́кт"
+				}, {
+					"english": "comrade",
+					"russian": "това́рищ"
+				}, {
+					"english": "rush, hurry X",
+					"russian": "торопи́ть | поторопи́ть X-ACC"
+				}, {
+					"english": "hurry, rush (oneself)",
+					"russian": "торопи́ться | поторопи́ться"
+				}, {
+					"english": "smart person",
+					"russian": "у́мница"
+				}, {
+					"english": "university, college (adj)",
+					"russian": "университе́тский"
+				}, {
+					"english": "level",
+					"russian": "у́ровень [М]"
+				}, {
+					"english": "school, academic (adj)",
+					"russian": "уче́бный"
+				}, {
+					"english": "pupil, student (school or private lessons)",
+					"russian": "ученик´ | учени́ца"
+				}, {
+					"english": "teacher (adj)",
+					"russian": "учи́тельский"
+				}, {
+					"english": "hall (academic, etc.)",
+					"russian": "хо́лл"
+				}, {
+					"english": "keep, preserve, archive",
+					"russian": "храни́ть |"
+				}, {
+					"english": "be kept, preserved, archived",
+					"russian": "храни́ться |"
+				}, {
+					"english": "school (adj)",
+					"russian": "шко́льный"
+				}, {
+					"english": "expert",
+					"russian": "экспе́рт"
+				}
+			]
+		},
+		"Chapter 2": {
+			"Counting": [{
+					"english": "I have one brother (masc, nom)",
+					"russian": "У меня́ оди́н брат"
+				}, {
+					"english": "I have one sister (fem, nom)",
+					"russian": "У меня́ одна́ сестра́"
+				}, {
+					"english": "She has only one lesson on Tuesday (neut, nom)",
+					"russian": "У неё то́лько одно́ заня́тие по вто́рникам"
+				}, {
+					"english": "He has one watch (pl, nom)",
+					"russian": "У него́ одни́ часы́"
+				}, {
+					"english": "They saw one film (masc, inanim acc)",
+					"russian": "Они смотре́ли оди́н фильм"
+				}, {
+					"english": "My mom read one book this week (fem, inanim acc)",
+					"russian": "Моя́ ма́ма чита́ла одну́ кни́гу на э́той неде́ле"
+				}, {
+					"english": "I witnessed one student (masc, anim acc)",
+					"russian": "Я ви́дела одного́ студе́нта"
+				}, {
+					"english": "Two female students on Saturday came to the meeting",
+					"russian": "Две студентки в субботу приходили на встречу (2 nom = gen.sg ending) "
+				}, {
+					"english": "In the room, there are two chairs",
+					"russian": "В ко́мнате два сту́ла (2 nom = gen.sg ending)"
+				}, {
+					"english": "Three tigers live in the city zoo",
+					"russian": "Три ти́гра живу́т в городско́м зоопа́рке (3 nom = gen.sg ending)"
+				}, {
+					"english": "I took two glasses and went to the hotel room",
+					"russian": "Я взя́л два стака́на и вы́шел в гости́ную (2 inanim.acc = gen.sg ending)"
+				}, {
+					"english": "Papa bought four oranges",
+					"russian": "Па́па купи́л четы́ре апельси́на (4 inanim.acc = gen.sg ending)"
+				}, {
+					"english": "Misha introduced us to two co-workers",
+					"russian": "Ми́ша предста́вил нам двух сотру́дников (2 anim.acc = gen.pl endings)"
+				}, {
+					"english": "We saw three birds in the garden",
+					"russian": "Мы ви́дели трёх птиц в саду́ (3 anim.acc = gen.pl ending)"
+				}, {
+					"english": "Nina has sold four kittens on the market",
+					"russian": "Ни́на продала́ четырёх котя́т на ры́нке (4 anim.acc = gen.pl ending)"
+				}, {
+					"english": "She has five books and six pencils",
+					"russian": "У неё пять кни́г и шесть карандаше́й (5+ nom = gen.pl)"
+				}, {
+					"english": "The company opened eight branches",
+					"russian": "Фи́рма откры́ла во́семь филиа́лов (5+ acc = gen.pl)"
+				}, {
+					"english": "We invited ten guests for dinner",
+					"russian": "Мы пригласи́ли десять госте́й на обе́д (5+ anim.acc = gen.pl)"
+				}, {
+					"english": "I have one younger brother",
+					"russian": "У меня́ оди́н мла́дший брат"
+				}, {
+					"english": "I have one older sister",
+					"russian": "У меня́ одна́ ста́ршая сестра́"
+				}, {
+					"english": "They watched one Russian film",
+					"russian": "Они смотре́ли оди́н ру́сский фильм"
+				}, {
+					"english": "My mother ready one new book this week",
+					"russian": "Моя́ ма́ма чита́ла одну́ но́вую кни́гу на э́той неде́ле"
+				}, {
+					"english": "She bought one fashionable pants",
+					"russian": "Она́ купи́ла одни́ мо́дные брю́ки"
+				}, {
+					"english": "I saw one smart student",
+					"russian": "Я ви́дела одного́ у́много студе́нта"
+				}, {
+					"english": "Two interesting female students were coming to the meeting.",
+					"russian": "Две интере́сные студе́нтки в суббо́ту приходи́ли на встре́чу (2 nom.fem = nom.pl.adj, gen.sg.noun)"
+				}, {
+					"english": "Two wooden chairs are in the room",
+					"russian": "В ко́мнате два деревя́нных сту́ла (2 nom.masc = gen.pl.adj, gen.sg.noun)"
+				}, {
+					"english": "I have four English books",
+					"russian": "У меня́ четыре англи́йских рома́на (gen.pl.adj, gen.sg.noun)"
+				}, {
+					"english": "We have five nice cars",
+					"russian": "У на́с пя́ть кра́сных маши́н (gen.pl)"
+				}, {
+					"english": "We bought twelve new computers",
+					"russian": "Мы́ купи́ли де́сять но́вых компью́теров (gen.pl)"
+				}, {
+					"english": "The driver met six foreign students at the airport",
+					"russian": "Води́тель встре́тил шесть иностра́нных студе́нтов в аэропорту́ (gen.pl)"
+				}, {
+					"english": "I took two clean glasses",
+					"russian": "Я взя́л два чи́стых стака́на"
+				}, {
+					"english": "I have received three long-awaited letters",
+					"russian": "Я получи́л три долгожда́нных письма́"
+				}, {
+					"english": "We saw three yellow birds in the garden",
+					"russian": "Мы ви́дели трёх жёлтых птиц в саду́ (anim.acc = gen numeral, gen.pl.adj, gen.pl.noun)"
+				}, {
+					"english": "Nina has sold four good kittens on the market",
+					"russian": "Ни́на продала́ четырёх хоро́шеньких котя́т на ры́нке"
+				}
+			],
+			"Numerals": [{
+					"english": "0",
+					"russian": "нуль, ноль (м, с нуля́)"
+				}, {
+					"english": "0th",
+					"russian": "нулево́й"
+				}, {
+					"english": "1",
+					"russian": "оди́н (м), одна́ (ж), одно́ (с), одни́ (мн)"
+				}, {
+					"english": "1st",
+					"russian": "пе́рвый"
+				}, {
+					"english": "2",
+					"russian": "два́ (м/с), две́ (ж) "
+				}, {
+					"english": "2nd",
+					"russian": "второ́й"
+				}, {
+					"english": "3",
+					"russian": "три́ "
+				}, {
+					"english": "3rd",
+					"russian": "тре́тий, тре́тья, тре́тье, тре́тьи"
+				}, {
+					"english": "4",
+					"russian": "четы́ре "
+				}, {
+					"english": "4th",
+					"russian": "четвёртый"
+				}, {
+					"english": "5",
+					"russian": "пя́ть "
+				}, {
+					"english": "5th",
+					"russian": "пя́тый"
+				}, {
+					"english": "6",
+					"russian": "ше́сть "
+				}, {
+					"english": "6th",
+					"russian": "шесто́й"
+				}, {
+					"english": "7",
+					"russian": "се́мь "
+				}, {
+					"english": "7th",
+					"russian": "седьмо́й"
+				}, {
+					"english": "8",
+					"russian": "во́семь "
+				}, {
+					"english": "8th",
+					"russian": "восьмо́й"
+				}, {
+					"english": "9",
+					"russian": "де́вять "
+				}, {
+					"english": "9th",
+					"russian": "девя́тый"
+				}, {
+					"english": "10",
+					"russian": "де́сять "
+				}, {
+					"english": "10th",
+					"russian": "деся́тый"
+				}, {
+					"english": "11",
+					"russian": "оди́ннадцать "
+				}, {
+					"english": "11th",
+					"russian": "оди́ннадцатый"
+				}, {
+					"english": "12",
+					"russian": "двена́дцать "
+				}, {
+					"english": "12th",
+					"russian": "двена́дцатый"
+				}, {
+					"english": "13",
+					"russian": "трина́дцать "
+				}, {
+					"english": "13th",
+					"russian": "трина́дцатый"
+				}, {
+					"english": "14",
+					"russian": "четы́рнадцать "
+				}, {
+					"english": "14th",
+					"russian": "четы́рнадцатый"
+				}, {
+					"english": "15",
+					"russian": "пятна́дцать "
+				}, {
+					"english": "15th",
+					"russian": "пятна́дцатый"
+				}, {
+					"english": "16",
+					"russian": "шестна́дцать "
+				}, {
+					"english": "16th",
+					"russian": "шестна́дцатый"
+				}, {
+					"english": "17",
+					"russian": "семна́дцать "
+				}, {
+					"english": "17th",
+					"russian": "семна́дцатый"
+				}, {
+					"english": "18",
+					"russian": "восемна́дцать "
+				}, {
+					"english": "18th",
+					"russian": "восемна́дцатый"
+				}, {
+					"english": "19",
+					"russian": "девятна́дцать "
+				}, {
+					"english": "19th",
+					"russian": "девятна́дцатый"
+				}, {
+					"english": "20",
+					"russian": "два́дцать "
+				}, {
+					"english": "20th",
+					"russian": "двадца́тый"
+				}, {
+					"english": "30",
+					"russian": "три́дцать "
+				}, {
+					"english": "30th",
+					"russian": "тридца́тый"
+				}, {
+					"english": "40",
+					"russian": "со́рок "
+				}, {
+					"english": "40th",
+					"russian": "сороково́й"
+				}, {
+					"english": "50",
+					"russian": "пятьдеся́т"
+				}, {
+					"english": "50th",
+					"russian": "пятидеся́тый"
+				}, {
+					"english": "60",
+					"russian": "шестьдеся́т "
+				}, {
+					"english": "60th",
+					"russian": "шестидеся́тый"
+				}, {
+					"english": "70",
+					"russian": "се́мьдесят "
+				}, {
+					"english": "70th",
+					"russian": "семидеся́тый"
+				}, {
+					"english": "80",
+					"russian": "во́семьдесят"
+				}, {
+					"english": "80th",
+					"russian": "восьмидеся́тый"
+				}, {
+					"english": "90",
+					"russian": "девяно́сто "
+				}, {
+					"english": "90th",
+					"russian": "девяно́стый"
+				}, {
+					"english": "100",
+					"russian": "сто́ [сто, ста, сот] "
+				}, {
+					"english": "100th",
+					"russian": "со́тый"
+				}, {
+					"english": "200",
+					"russian": "две́сти"
+				}, {
+					"english": "200th",
+					"russian": "двухсо́тый"
+				}, {
+					"english": "300",
+					"russian": "три́ста "
+				}, {
+					"english": "300th",
+					"russian": "трёхсо́тый"
+				}, {
+					"english": "400",
+					"russian": "четы́реста"
+				}, {
+					"english": "400th",
+					"russian": "четырёхсо́тый"
+				}, {
+					"english": "500",
+					"russian": "пятьсо́т "
+				}, {
+					"english": "500th",
+					"russian": "пятисо́тый"
+				}, {
+					"english": "600",
+					"russian": "шестьсо́т "
+				}, {
+					"english": "600th",
+					"russian": "шестисо́тый"
+				}, {
+					"english": "700",
+					"russian": "семьсо́т "
+				}, {
+					"english": "700th",
+					"russian": "семисо́тый"
+				}, {
+					"english": "800",
+					"russian": "восемьсо́т"
+				}, {
+					"english": "800th",
+					"russian": "восьмисо́тый"
+				}, {
+					"english": "900",
+					"russian": "девятьсо́т "
+				}, {
+					"english": "900th",
+					"russian": "девятисо́тый"
+				}, {
+					"english": "1,000",
+					"russian": "ты́сяча [ты́сяча, ты́сячи, ты́сяч] "
+				}, {
+					"english": "1,000th",
+					"russian": "ты́сячный"
+				}, {
+					"english": "2,000",
+					"russian": "две́ ты́сячи"
+				}, {
+					"english": "2,000th",
+					"russian": "двухты́сячный"
+				}, {
+					"english": "3,000",
+					"russian": "три́ ты́сячи "
+				}, {
+					"english": "3,000th",
+					"russian": "трёхты́сячный"
+				}, {
+					"english": "4,000",
+					"russian": "четы́ре ты́сячи"
+				}, {
+					"english": "4,000th",
+					"russian": "четырёхты́сячный"
+				}, {
+					"english": "5,000",
+					"russian": "пя́ть ты́сяч "
+				}, {
+					"english": "5000th",
+					"russian": "пятиты́сячный"
+				}, {
+					"english": "6,000",
+					"russian": "ше́сть ты́сяч "
+				}, {
+					"english": "6000th",
+					"russian": "шеститы́сячный"
+				}, {
+					"english": "7,000",
+					"russian": "се́мь ты́сяч "
+				}, {
+					"english": "7000th",
+					"russian": "семиты́сячный"
+				}, {
+					"english": "8,000",
+					"russian": "во́семь ты́сяч"
+				}, {
+					"english": "8000th",
+					"russian": "восьмиты́сячный"
+				}, {
+					"english": "9,000",
+					"russian": "де́вять ты́сяч "
+				}, {
+					"english": "9000th",
+					"russian": "девятиты́сячный"
+				}, {
+					"english": "10,000",
+					"russian": "де́сять ты́сяч "
+				}, {
+					"english": "10,000th",
+					"russian": "десятиты́сячный"
+				}, {
+					"english": "million",
+					"russian": "миллио́н [миллио́н, миллио́на, миллио́нов]"
+				}, {
+					"english": "millionth",
+					"russian": "миллио́нный"
+				}, {
+					"english": "billion",
+					"russian": "миллиа́рд [миллиа́рд, миллиа́рда, миллиа́рдов]"
+				}, {
+					"english": "billionth",
+					"russian": "миллиа́рдный"
+				}, {
+					"english": "trillion",
+					"russian": "триллио́н [триллио́н, триллио́на, триллио́нов]"
+				}, {
+					"english": "trillionth",
+					"russian": "триллио́нный"
+				}
+			],
+			"Part 1": [{
+					"english": "boxing",
+					"russian": "бокс"
+				}, {
+					"english": "gymnastics",
+					"russian": "гимнастика"
+				}, {
+					"english": "free time, leisure time",
+					"russian": "досуг"
+				}, {
+					"english": "fixed route minivan",
+					"russian": "матшрутка"
+				}, {
+					"english": "discussion",
+					"russian": "обсуждение"
+				}, {
+					"english": "youth",
+					"russian": "молодежь"
+				}, {
+					"english": "vacation",
+					"russian": "отпуск"
+				}, {
+					"english": "swimmer",
+					"russian": "пловец/пловчиха"
+				}, {
+					"english": "tv program/show",
+					"russian": "телепередача"
+				}, {
+					"english": "radio program",
+					"russian": "радиопередача"
+				}, {
+					"english": "teenager, adolscent",
+					"russian": "подросток"
+				}, {
+					"english": "competition",
+					"russian": "соревнование"
+				}, {
+					"english": "training, workout",
+					"russian": "тренировка"
+				}, {
+					"english": "gym, fitness club",
+					"russian": "спортзал"
+				}, {
+					"english": "passion for, enthusiam for",
+					"russian": "увлечение"
+				}, {
+					"english": "stage",
+					"russian": "сцена"
+				}, {
+					"english": "participation",
+					"russian": "участие"
+				}, {
+					"english": "participant",
+					"russian": "участник"
+				}, {
+					"english": "number, digit, figure",
+					"russian": "цифра"
+				}, {
+					"english": "time period, term",
+					"russian": "срок"
+				}, {
+					"english": "break (=vacation)",
+					"russian": "каникулы"
+				}
+			],
+			"Part 2": [{
+					"english": "any",
+					"russian": "любой"
+				}, {
+					"english": "identical, the same, equal",
+					"russian": "одинаковый"
+				}, {
+					"english": "different, various",
+					"russian": "различный (разный)"
+				}, {
+					"english": "otherwise",
+					"russian": "иначе"
+				}, {
+					"english": "both",
+					"russian": "оба/обе"
+				}, {
+					"english": "the day before yesterday",
+					"russian": "позавчера"
+				}, {
+					"english": "to get interested in",
+					"russian": "интересовать/заинтересовать (ACC.)"
+				}, {
+					"english": "can, be able to (ability, permission)",
+					"russian": "мочь/смочь (INF.)"
+				}, {
+					"english": "to discuss",
+					"russian": "обсуждать/обсудить"
+				}, {
+					"english": "to collect, to gather",
+					"russian": "собирать/собрать"
+				}, {
+					"english": "to communicate, to socialize",
+					"russian": "общаться/пообщаться (INSTR.)"
+				}, {
+					"english": "to train (oneself)",
+					"russian": "тренировать(ся)"
+				}, {
+					"english": "to rest, to relax, to be on vacation",
+					"russian": "отдыхать/отдохнуть"
+				}, {
+					"english": "to inform, to convey",
+					"russian": "сообщать/сообщить"
+				}, {
+					"english": "to fascinate, (to be fascinated)",
+					"russian": "увлекать(ся)-увлечь (ся)"
+				}, {
+					"english": "to count",
+					"russian": "считать"
+				}, {
+					"english": "to be able to, to know how",
+					"russian": "уметь/суметь"
+				}
+			],
+			"Time expressions": [{
+					"english": "January",
+					"russian": "янва́рь <br> в январе́<br>  ADJ-ого января́"
+				}, {
+					"english": "February",
+					"russian": "февра́ль<br>  в феврале́<br>  ADJ-ого февраля́"
+				}, {
+					"english": "March",
+					"russian": "ма́рт<br>  в ма́рте<br>  ADJ-ого ма́рта"
+				}, {
+					"english": "April",
+					"russian": "апре́ль<br>  в апре́ле<br>  ADJ-ого апре́ля"
+				}, {
+					"english": "May",
+					"russian": "май<br>  в ма́е<br>  ADJ-ого ма́я"
+				}, {
+					"english": "June",
+					"russian": "ию́нь<br>  в ию́не<br>  ADJ-ого ию́ня"
+				}, {
+					"english": "July",
+					"russian": "ию́ль<br>  в ию́ле<br>  ADJ-ого ию́ля"
+				}, {
+					"english": "August",
+					"russian": "а́вгуст<br>  в а́вгусте<br>  ADJ-ого а́вгуста"
+				}, {
+					"english": "September",
+					"russian": "сентя́брь<br>  в сентябре́<br>  ADJ-ого сентября́"
+				}, {
+					"english": "October",
+					"russian": "октя́брь<br>  в октябре́<br>  ADJ-ого октября́"
+				}, {
+					"english": "November",
+					"russian": "ноя́брь<br>  в ноябре́<br>  ADJ-ого ноября́"
+				}, {
+					"english": "December",
+					"russian": "дека́брь<br>  в декабре́<br>  ADJ-ого декабря́"
+				}, {
+					"english": "Monday",
+					"russian": "Понедельник"
+				}, {
+					"english": "Tuesday",
+					"russian": "Вторник"
+				}, {
+					"english": "Wednesday",
+					"russian": "Среда"
+				}, {
+					"english": "Thursday",
+					"russian": "Четверг"
+				}, {
+					"english": "Friday",
+					"russian": "Пятница"
+				}, {
+					"english": "Saturday",
+					"russian": "Суббота"
+				}, {
+					"english": "Sunday",
+					"russian": "Воскресенье"
+				}, {
+					"english": "Today",
+					"russian": "Сегодня"
+				}, {
+					"english": "Tomorrow",
+					"russian": "Завтра"
+				}, {
+					"english": "Yesterday",
+					"russian": "Вчера"
+				}, {
+					"english": "Day",
+					"russian": "День"
+				}, {
+					"english": "Week",
+					"russian": "Неделя"
+				}, {
+					"english": "Month",
+					"russian": "Месяц"
+				}, {
+					"english": "Year",
+					"russian": "Год"
+				}, {
+					"english": "the day before yesterday",
+					"russian": "позавчера́"
+				}, {
+					"english": "the day after tomorrow",
+					"russian": "послеза́втра"
+				}, {
+					"english": "morning",
+					"russian": "у́тро<br> у́тром"
+				}, {
+					"english": "Spring",
+					"russian": "весна́<br> весно́й"
+				}, {
+					"english": "afternoon",
+					"russian": "день<br> днём"
+				}, {
+					"english": "Summer",
+					"russian": "ле́то<br> ле́том"
+				}, {
+					"english": "evening",
+					"russian": "ве́чер<br> ве́чером"
+				}, {
+					"english": "Fall",
+					"russian": "о́сень (Ж)<br> о́сенью"
+				}, {
+					"english": "night",
+					"russian": "но́чь (Ж)<br> но́чью"
+				}, {
+					"english": "Winter",
+					"russian": "зима́<br> зимо́й"
+				}, {
+					"english": "days<br>1<br>2,3,4<br>5+",
+					"russian": "день<br> дня<br> дней"
+				}, {
+					"english": "weeks<br>1<br>2,3,4<br>5+",
+					"russian": "(одну́) неде́лю<br> неде́ли<br> неде́ль<br>"
+				}, {
+					"english": "months<br>1<br>2,3,4<br>5+",
+					"russian": "ме́сяц<br> ме́сяца<br> ме́сяцев<br>"
+				}, {
+					"english": "years<br>1<br>2,3,4<br>5+",
+					"russian": "год<br> го́да<br> лет<br>"
+				}, {
+					"english": "two months ago",
+					"russian": "два месяца назад"
+				}, {
+					"english": "five weeks ago",
+					"russian": "пять недель назад"
+				}, {
+					"english": "in five days",
+					"russian": "через пять дней"
+				}, {
+					"english": "in two weeks",
+					"russian": "через две недели"
+				}, {
+					"english": "last | this | next week",
+					"russian": "на про́шлой | э́той | сле́дующей неде́ле"
+				}, {
+					"english": "last | this | next month",
+					"russian": "в про́шлом | э́том | сле́дующем ме́сяце"
+				}, {
+					"english": "last | this | next year",
+					"russian": "в про́шлом | э́том | сле́дующем году́"
+				}, {
+					"english": "1 time per day<br>2,3,4 times per day<br>5+ times per day",
+					"russian": "1 раз в день<br>2,3,4 ра́за в день<br>5+ раз в день"
+				}, {
+					"english": "What class (grade) are you in?",
+					"russian": "В како́м кла́ссе вы у́читесь?"
+				}, {
+					"english": "in first grade",
+					"russian": "в пе́рвом кла́ссе"
+				}, {
+					"english": "in second grade",
+					"russian": "во второ́м кла́ссе"
+				}, {
+					"english": " in third grade",
+					"russian": "в тре́тьем кла́ссе"
+				}, {
+					"english": "in what course (year) do you study?",
+					"russian": "На како́м ку́рсе вы у́читесь?"
+				}, {
+					"english": "in the second year",
+					"russian": "на второ́м ку́рсе"
+				}, {
+					"english": "in the third year",
+					"russian": "на тре́тьем ку́рсе"
+				}, {
+					"english": "in the fourth year",
+					"russian": "на четвёртом ку́рсе"
+				}, {
+					"english": "2021",
+					"russian": "две́ ты́сячи два́дцать пе́рвый го́д"
+				}, {
+					"english": "2017",
+					"russian": "две́ ты́сячи семна́дцатый го́д"
+				}, {
+					"english": "1980",
+					"russian": "ты́сяча девятьсо́т во́сьмидеся́тый год"
+				}, {
+					"english": "1700",
+					"russian": "1700: ты́сяча семисо́тый год"
+				}, {
+					"english": "2000",
+					"russian": "двухты́сячный год"
+				}, {
+					"english": "in 2021",
+					"russian": "в две ты́сячи два́дцать пе́рвом году́"
+				}, {
+					"english": "in 2017",
+					"russian": "в две́ ты́сячи семна́дцатом году́"
+				}, {
+					"english": "in 1980",
+					"russian": "в ты́сяча девятьсо́т во́сьмидеся́том году́"
+				}, {
+					"english": "in 1700",
+					"russian": "в ты́сяча семисо́том году́"
+				}, {
+					"english": "in 2000",
+					"russian": "в двухты́сячном году́"
+				}, {
+					"english": "in May 2017",
+					"russian": "в ма́е две ты́сячи семна́дцатого го́да"
+				}, {
+					"english": "in October 2002",
+					"russian": "в октябре́ две ты́сячи второ́го го́да"
+				}, {
+					"english": "on 20 May 2017",
+					"russian": "двадца́того ма́я две ты́сячи пятна́дцатого го́да"
+				}, {
+					"english": "on 12 October 2002",
+					"russian": "двена́дцатого октября́ две тысячи второго го́да"
+				}, {
+					"english": "What is today's date?",
+					"russian": "Како́е сего́дня число́?"
+				}, {
+					"english": "Today is the 6th of september",
+					"russian": "Сего́дня шестна́дцатое сентября́"
+				}
+			],
+			"Verbs of motion": [{
+					"english": "go, by foot<br>[multi]",
+					"russian": "ходи́ть<br>хожу́<br>хо́дишь<br>хо́дят<br>ходи́л<br>ходи́ла<br>ходи́ли<br>ходи́(те)"
+				}, {
+					"english": "go, by foot<br>[uni - imperfective]",
+					"russian": "идти́<br>иду́<br>идёшь<br>иду́т<br>шёл<br>шла́<br>шли́<br>иди́(те)"
+				}, {
+					"english": "go, by foot<br>[uni - perfective]",
+					"russian": "поидти́<br>поиду́<br>поидёшь<br>поиду́т<br>пошёл<br>пошла́<br>пошли́<br>поиди́(те)"
+				}, {
+					"english": "go, by vehicle<br>[multi]",
+					"russian": "е́здить<br>е́зжу<br>е́здишь<br>е́здят<br>е́здил<br>е́здила<br>е́здили<br>е́зди(те)"
+				}, {
+					"english": "go, by vehicle<br>[uni - imperfective]",
+					"russian": "е́хать<br>е́ду<br>е́дешь<br>е́дут<br>е́хал<br>е́хала<br>е́хали<br>поезжа́й(те)"
+				}, {
+					"english": "go, by vehicle<br>[uni - perfective]",
+					"russian": "пое́хать<br>пое́ду<br>пое́дешь<br>пое́дут<br>пое́хал<br>пое́хала<br>пое́хали<br>поезжа́й(те)"
+				}, {
+					"english": "carry (on foot); wear<br>[multi]",
+					"russian": "носи́ть<br> ношу́<br> но́сишь<br> но́сят<br> носи́л<br> носи́ла<br> носи́ли<br> носи́(те)"
+				}, {
+					"english": "carry (on foot); wear<br>[uni - imperfective]",
+					"russian": "нести́<br> несу́<br> несёшь<br> несу́т<br> нёс<br> несла́<br> несли́<br> неси́(те)"
+				}, {
+					"english": "lead, guide (on foot), walk (a dog)<br>[multi]",
+					"russian": "води́ть<br> вожу́<br> во́дишь<br> во́дят<br> води́л<br> води́ла<br> води́ли<br> води́(те)"
+				}, {
+					"english": "lead, guide (on foot), walk (a dog)<br>[uni - imprefective]",
+					"russian": "вести́<br> веду́<br> ведёшь<br> веду́т<br> вёл<br> вела́<br> вели́<br> веди́(те)"
+				}, {
+					"english": "carry, transport, drive (by vehicle, animal)<br>[multi]",
+					"russian": "вози́ть<br> вожу́<br> во́зишь<br> во́зят<br> вози́л,<br> вози́ла,<br> вози́ли<br> вози́(те)"
+				}, {
+					"english": "carry, transport, drive (by vehicle, animal)<br>[uni]",
+					"russian": "везти́<br> везу́<br> везёшь<br> везу́т<br> вёз,<br> везла́,<br> везли́<br> вези́(те)"
+				}
+			]
+		},
+		"Chapter 3": {
+			"Conjugations": [{
+					"english": "to do<br>to make<br>verb type: (1) -ай-<br>group size: 1000s",
+					"russian": "де́лать<br><br>де́лаю<br>де́лаешь<br>де́лают<br><br>де́лал<br>де́лала<br><br>де́лай(те)"
+				}, {
+					"english": "know how<br>verb type: (1) -ей-<br>group size: 100s",
+					"russian": "уме́ть<br><br>уме́ю<br>уме́ешь<br>уме́ют<br><br>уме́л<br>уме́ла<br><br>уме́й(те)"
+				}, {
+					"english": "to open<br>verb type: (1) -ой-<br>group size: 5",
+					"russian": "откры́ть<br><br>откро́ю<br>откро́ешь<br>откро́ют<br><br>откры́л<br>откры́ла<br><br>откро́й(те)"
+				}, {
+					"english": "to do<br>to drink<br>verb type: (1) -ий-<br>group size: 5",
+					"russian": "пи́ть<br><br>пью́<br>пьёшь<br>пью́т<br><br>пи́л<br>пила́<br><br>пе́й(те)"
+				}, {
+					"english": "to interest<br>verb type: (1) -ова-<br>group size: 1000s",
+					"russian": "интересова́ть<br><br>интересу́ю<br>интересу́ешь<br>интересу́ют<br><br>интересова́л<br>интересова́ла<br><br>интересу́й(те)"
+				}, {
+					"english": "found<br>verb type: (1) -ов-а-<br>group size: 8",
+					"russian": "основа́ть<br><br>осную́<br>оснуёшь<br>осную́т<br><br>основа́л<br>основа́ла<br><br>осну́й(те)"
+				}, {
+					"english": "to give<br>verb type: (1) -ава-<br>group size: 4",
+					"russian": "дава́ть<br><br>даю́<br>даёшь<br>даю́т<br><br>дава́л<br>дава́ла<br><br>дава́й(те)"
+				}, {
+					"english": "say, tell<br>verb type: (1) -а-<br>group size: ~60",
+					"russian": "сказа́ть<br><br>скажу́<br>ска́жешь<br>ска́жут<br><br>сказа́л<br>сказа́ла<br><br>скажи́(те)"
+				}, {
+					"english": "to take<br>verb type: (1) -N/S-а-<br>Non-Sylabic -a-<br>group size: 15",
+					"russian": "бра́ть<br><br>беру́<br>берёшь<br>беру́т<br><br>бра́л<br>брала́<br><br>бери́(те)"
+				}, {
+					"english": "to return<br>verb type: (1) -ну-<br>group size: 100s",
+					"russian": "верну́ть<br><br>верну́<br>вернёшь<br>верну́т<br><br>верну́л,<br>верну́ла,<br><br>верни́(те)"
+				}, {
+					"english": "to get used to<br>verb type: (1) -(ну)-<br>disappearing НУ<br>group size: 100s",
+					"russian": "привы́кнуть<br><br>привы́кну<br>привы́кнешь<br>привы́кнут<br><br>привы́к<br>привы́кла<br><br>привы́кни(те)"
+				}, {
+					"english": "to live<br>verb type: (1) -в-<br>group size: 3",
+					"russian": "жи́ть<br><br>живу́<br>живёшь<br>живу́т<br><br>жи́л<br>жила́<br><br>живи́(те)"
+				}, {
+					"english": "to become<br>verb type: (1) -н-<br>group size: 4",
+					"russian": "ста́ть<br><br>ста́ну<br>ста́нешь<br>ста́нут<br><br>ста́л<br>ста́ла<br><br><br>"
+				}, {
+					"english": "to lead, guide, drive<br>verb type: (1) -д|т-<br>group size: ~15",
+					"russian": "вести́<br><br>веду́<br>ведёшь<br>веду́т<br><br>вёл<br>вела́<br><br>веди́(те)"
+				}, {
+					"english": "to carry<br>verb type: (1) -з|с-<br>group size: 7",
+					"russian": "нести́<br><br>несу́<br>несёшь<br>несу́т<br><br>нёс,<br>несла́,<br><br>неси́(те)"
+				}, {
+					"english": "be able, can<br>verb type: (1) -г|к-<br>group size: 13",
+					"russian": "мо́чь<br><br>могу́<br>мо́жешь<br>мо́гут<br><br>мо́г<br>могла́<br><br>cf. помоги́(те)"
+				}, {
+					"english": "*to begin, start<br>verb type: (1) -/м-, -/н-<br>slash M, slash H<br>group size: 5",
+					"russian": "*нача́ть<br><br>начну́<br>начнёшь<br>начну́т<br><br>на́чал<br>начала́<br><br>начни́(те)"
+				}, {
+					"english": "to die<br>verb type: (1) -/р-<br>group size: 4",
+					"russian": "умере́ть<br><br>умру́<br>умрёшь<br>умру́т<br><br>у́мер<br>умерла́<br><br>умри́(те)"
+				}, {
+					"english": "take off; rent; photograph/film<br>verb type: (1) -*м-<br>group size: 1",
+					"russian": "сня́ть<br><br>сниму́<br>сни́мешь<br>сни́мут<br><br>сня́л<br>сняла́<br><br>сними́(те)"
+				}, {
+					"english": "to love<br>verb type: (2) -и-<br>group size: 1000s",
+					"russian": "люби́ть<br><br>люблю́<br>лю́бишь<br>лю́бят<br><br>люби́л<br>люби́ла<br><br>люби́(те)"
+				}, {
+					"english": "to see<br>verb type: (2) -е-<br>group size: ~50",
+					"russian": "ви́деть<br><br>ви́жу<br>ви́дишь<br>ви́дят<br><br>ви́дел<br>ви́дела<br><br>cf. уви́дь(те)"
+				}, {
+					"english": "to lie, be lying down<br>verb type: (2) -Жа-<br>husher -а-<br>group size: ~30",
+					"russian": "лежа́ть<br><br>лежу́<br>лежи́шь<br>лежа́т<br><br>лежа́л<br>лежа́ла<br><br>лежи́(те)"
+				}
+			],
+			"Part 1": [{
+					"english": "mutton",
+					"russian": "баранина"
+				}, {
+					"english": "pork",
+					"russian": "свини́на"
+				}, {
+					"english": "beef",
+					"russian": "говядина"
+				}, {
+					"english": "turkey",
+					"russian": "индейка"
+				}, {
+					"english": "chicken",
+					"russian": "курица"
+				}, {
+					"english": "ham",
+					"russian": "ветчина́"
+				}, {
+					"english": "oil",
+					"russian": "растительное масло"
+				}, {
+					"english": "butter",
+					"russian": "сливочное масло"
+				}, {
+					"english": "sour cream",
+					"russian": "сметана"
+				}, {
+					"english": "cottage cheese",
+					"russian": "творог (sing.)"
+				}, {
+					"english": "potatos",
+					"russian": "карто́фель (sing.)"
+				}, {
+					"english": "greenery",
+					"russian": "зе́лень (sing.)"
+				}, {
+					"english": "grapes",
+					"russian": "виноград (sing.)"
+				}, {
+					"english": "watermelon",
+					"russian": "арбуз"
+				}, {
+					"english": "melon",
+					"russian": "дыня"
+				}, {
+					"english": "strawberries",
+					"russian": "клубника (sing.)"
+				}, {
+					"english": "raspberries",
+					"russian": "малина (sing.)"
+				}, {
+					"english": "cranberries",
+					"russian": "клюква (sing.)"
+				}, {
+					"english": "peach",
+					"russian": "персик"
+				}, {
+					"english": "jam, preserves",
+					"russian": "варенье"
+				}, {
+					"english": "baked item",
+					"russian": "пирог"
+				}, {
+					"english": "small baked item",
+					"russian": "пирожок"
+				}, {
+					"english": "filled pastry",
+					"russian": "пирожное"
+				}, {
+					"english": "nut",
+					"russian": "орех"
+				}, {
+					"english": "taste (also taste to wear nice things, etc.)",
+					"russian": "вкус"
+				}, {
+					"english": "bouquet",
+					"russian": "букет"
+				}, {
+					"english": "conversation",
+					"russian": "беседа"
+				}, {
+					"english": "appetizer",
+					"russian": "закуска"
+				}, {
+					"english": "shot glass",
+					"russian": "рюмка"
+				}, {
+					"english": "wine glass",
+					"russian": "бокал"
+				}, {
+					"english": "berry",
+					"russian": "ягода"
+				}, {
+					"english": "unfortunately",
+					"russian": "к сожале́нию"
+				}, {
+					"english": "fortunately",
+					"russian": "к сча́стью"
+				}, {
+					"english": "with pleasure",
+					"russian": "с удово́льствием"
+				}
+			],
+			"Part 2": [{
+					"english": "grateful",
+					"russian": "благода́рен<br>благода́рна<br>благода́рны<br>(to whom-dative;<br>for what -«за»+genitive)"
+				}, {
+					"english": "hungry",
+					"russian": "го́лоден<br>голодна́<br>го́лодны́"
+				}, {
+					"english": "to boil",
+					"russian": "варить"
+				}, {
+					"english": "full (food wise)",
+					"russian": "сыт, сыта, сыты"
+				}, {
+					"english": "Feel yourself at home.",
+					"russian": "Чу́вствуйте себя́ как до́ма."
+				}, {
+					"english": "Give her my hello!",
+					"russian": "Переда́й ей от меня́ приве́т!"
+				}, {
+					"english": "to refuse",
+					"russian": "отказываться<br>отказаться"
+				}, {
+					"english": "to cook, to prepare, to get ready",
+					"russian": "готовить<br>приготовить<br>подготовить"
+				}, {
+					"english": "to feed",
+					"russian": "кормить<br>накормить"
+				}, {
+					"english": "to eat (=есть-поесть)",
+					"russian": "кушать<br>скышать<br>покушать"
+				}, {
+					"english": "to pour, to fill (a glass, a cup)",
+					"russian": "наливать<br>налить"
+				}, {
+					"english": "to raise (a glass for- “за”+ genitive)",
+					"russian": "поднимать<br>поднять"
+				}, {
+					"english": "to serve",
+					"russian": "подавать<br>подать"
+				}, {
+					"english": "to call (out loud, not on the phone)",
+					"russian": "звать<br>позвать"
+				}, {
+					"english": "to offer, to suggest",
+					"russian": "предлагать<br>предложить"
+				}, {
+					"english": "to remind",
+					"russian": "напоминать<br>напомнить"
+				}, {
+					"english": "to greet, to say “hi”",
+					"russian": "здороваться<br>поздороваться"
+				}, {
+					"english": "to give back, to return",
+					"russian": "отдавать<br>отдать"
+				}
+			]
+		},
+		"Chapter 4": {
+			"Part 1": [{
+					"english": "appereance",
+					"russian": "вне́шность"
+				}, {
+					"english": "beard",
+					"russian": "борода́"
+				}, {
+					"english": "height",
+					"russian": "рост"
+				}, {
+					"english": "moustache",
+					"russian": "усы́"
+				}, {
+					"english": "weight",
+					"russian": "ве́с"
+				}, {
+					"english": "tear(s)",
+					"russian": "слеза́<br>слёзы"
+				}, {
+					"english": "size",
+					"russian": "размер"
+				}, {
+					"english": "smile",
+					"russian": "улыбка"
+				}, {
+					"english": "figure",
+					"russian": "фигура"
+				}, {
+					"english": "sweat (in sweat)",
+					"russian": "пот (в поту)"
+				}, {
+					"english": "character",
+					"russian": "хара́ктер"
+				}, {
+					"english": "freckle(s)",
+					"russian": "весну́шка<br>весну́шки"
+				}, {
+					"english": "feature",
+					"russian": "черта"
+				}, {
+					"english": "hairstyle",
+					"russian": "причёска"
+				}, {
+					"english": "age",
+					"russian": "возраст"
+				}, {
+					"english": "blond-haired person",
+					"russian": "блондин/ка"
+				}, {
+					"english": "face",
+					"russian": "лицо"
+				}, {
+					"english": "dark-haired person",
+					"russian": "брюнет/ка"
+				}, {
+					"english": "neck",
+					"russian": "ше́я"
+				}, {
+					"english": "clothes",
+					"russian": "одежда"
+				}, {
+					"english": "throat",
+					"russian": "горло"
+				}, {
+					"english": "footwear",
+					"russian": "обувь"
+				}, {
+					"english": "hand",
+					"russian": "рука"
+				}, {
+					"english": "fur coat",
+					"russian": "шуба"
+				}, {
+					"english": "leg",
+					"russian": "нога"
+				}, {
+					"english": "pijamas",
+					"russian": "пижама"
+				}, {
+					"english": "skin",
+					"russian": "кожа"
+				}, {
+					"english": "slippers",
+					"russian": "тапочки"
+				}, {
+					"english": "lip(s)",
+					"russian": "губа́<br>гу́бы"
+				}, {
+					"english": "underwear",
+					"russian": "бельё"
+				}, {
+					"english": "chin",
+					"russian": "подборо́док"
+				}, {
+					"english": "hat",
+					"russian": "шапка"
+				}, {
+					"english": "bone",
+					"russian": "кость"
+				}, {
+					"english": "pants",
+					"russian": "штаны"
+				}, {
+					"english": "blood",
+					"russian": "кровь"
+				}, {
+					"english": "brain",
+					"russian": "мозг"
+				}, {
+					"english": "muscle",
+					"russian": "мускул"
+				}, {
+					"english": "eyelash",
+					"russian": "ресница"
+				}, {
+					"english": "hair",
+					"russian": "волос/ы"
+				}, {
+					"english": "finger/toes",
+					"russian": "палец/пальцы"
+				}, {
+					"english": "barefeet",
+					"russian": "босиком"
+				}, {
+					"english": "not important; bad",
+					"russian": "неважно"
+				}, {
+					"english": "together",
+					"russian": "вместе"
+				}
+			],
+			"Part 2": [{
+					"english": "pale",
+					"russian": "бледный"
+				}, {
+					"english": "curly",
+					"russian": "кудря́вый"
+				},  {
+					"english": "bald",
+					"russian": "лысый"
+				}, {
+					"english": "red (about hair only)",
+					"russian": "рыжий"
+				}, {
+					"english": "light-colored",
+					"russian": "светлый"
+				}, {
+					"english": "dark-colored",
+					"russian": "тёмный"
+				}, {
+					"english": "grey (about hair only)",
+					"russian": "седой"
+				}, {
+					"english": "oval",
+					"russian": "овальный"
+				}, {
+					"english": "elderly",
+					"russian": "пожилой"
+				}, {
+					"english": "strong, solid",
+					"russian": "крепкий"
+				}, {
+					"english": "thin, slender",
+					"russian": "тонкий"
+				}, {
+					"english": "(too) thin, scrawny",
+					"russian": "худой"
+				}, {
+					"english": "fashionable",
+					"russian": "модный"
+				}, {
+					"english": "old-fashioned",
+					"russian": "старомодный"
+				}, {
+					"english": "dark complexion",
+					"russian": "смуглый"
+				}, {
+					"english": "tall",
+					"russian": "высо́кого ро́ста"
+				}, {
+					"english": "not so tall",
+					"russian": "невысокого роста"
+				}, {
+					"english": "average height",
+					"russian": "среднего роста"
+				}, {
+					"english": "looks like, resembles",
+					"russian": "выглядеть"
+				}, {
+					"english": "to put on<br>(particular item)",
+					"russian": "надевать<br>надеть"
+				}, {
+					"english": "to put on clothes (all)",
+					"russian": "одеваться<br>одеться"
+				}, {
+					"english": "to take off clothes (all)",
+					"russian": "раздеваться<br>раздеться"
+				}, {
+					"english": "to wear (clothes/beard/moustache)",
+					"russian": "носить (одежду/бороду/усы)"
+				}, {
+					"english": "to correct, to set right",
+					"russian": "поправля́ть<br>попра́вить"
+				}, {
+					"english": "to compare",
+					"russian": "сравнивать<br>сравнить"
+				},
+				{
+					"english": "to take off (single item of clothing)",
+					"russian": "снима́ть<br>снять"
+				},
+				{
+					"english": "plump, full",
+					"russian": "полный"
+				},
+				{
+					"english": "straight",
+					"russian": "прямой"
+				},
+				{
+					"english": "On you, my dear, all outfits are good!",
+					"russian": "«Во всех ты, Ду́шенька, наря́дах хороша́!»"
+				}
+			],
+			"Shortened Adj": [{
+					"english": "glad, happy",
+					"russian": "ра́д, ра́да, ра́ды"
+				},
+				{
+					"english": "healthy, well",
+					"russian": "здоро́в, здоро́ва, здоро́во, здоро́вы"
+				},
+				{
+					"english": "familiar, acquainted",
+					"russian": "знако́м, знако́ма, знако́мо, знако́мы"
+				},
+				{
+					"english": "unknown, unacquainted",
+					"russian": "незнако́м, незнако́ма, незнако́мо, незнако́мы"
+				},
+				{
+					"english": "free, available",
+					"russian": "свобо́ден, свобо́дна, свобо́дно, свобо́дны"
+				},
+				{
+					"english": "busy (at the moment)",
+					"russian": "за́нят, занята́, за́нято, за́няты"
+				},
+				{
+					"english": "satisfied with",
+					"russian": "дово́лен, дово́льна, дово́льно, дово́льны INST"
+				},
+				{
+					"english": "(don’t) agree (with)",
+					"russian": "(не)согла́сен, солга́сна, согла́сно, согла́сны (с INST)"
+				},
+				{
+					"english": "happy, fortunate",
+					"russian": "сча́стлив, сча́стлива, сча́стливы"
+				},
+				{
+					"english": "hungry",
+					"russian": "го́лоден, голодна́, го́лодно, го́лодны́"
+				},
+				{
+					"english": "full (from eating)",
+					"russian": "сы́т, сы́та, сы́то, сы́ты"
+				},
+				{
+					"english": "looks like, resemble, be similar to",
+					"russian": "похо́ж, похо́жа, похо́же, похо́жи на ACC"
+				},
+				{
+					"english": "right, correct (about)",
+					"russian": "пра́в, права́, пра́во, пра́вы (в LOC)"
+				},
+				{
+					"english": "wrong, incorrect (about)",
+					"russian": "непра́в, неправа́, непра́во, непра́вы (в LOC)"
+				},
+				{
+					"english": "(un)certain, (un)sure (of)",
+					"russian": "(не)уве́рен, уве́рена, уве́рено, уве́рены (в LOC)"
+				},
+				{
+					"english": "guilty (of), at fault (in)",
+					"russian": "винова́т, винова́та, винова́то, винова́ты (в LOC)"
+				},
+				{
+					"english": "worthy of",
+					"russian": "досто́ин, досто́йна, досто́йно, досто́йны GEN"
+				},
+				{
+					"english": "full of",
+					"russian": "по́лон, полна́, полно́, полны́ GEN"
+				},
+				{
+					"russian": "бо́лен, больна́, больно́, больны́",
+					"english": "sick (temporary condition)"
+				},
+				{
+					"english": "sick(ly); a patient",
+					"russian": "больно́й"
+				},
+				{
+					"english": "angry (recurring character trait)",
+					"russian": "серди́тый"
+				},
+				{
+					"english": "angry (at a particular time)",
+					"russian": "серди́т, серди́та, серди́то, серди́ты"
+				},
+				{
+					"english": "(chronically) busy",
+					"russian": "занято́й"
+				},
+				{
+					"english": "big, large, great",
+					"russian": "вели́к, велика́, велико́, велики́"
+				},
+				{
+					"english": "small, minor",
+					"russian": "ма́л, мала́, мало́, малы́"
+				},
+				{
+					"english": "too long",
+					"russian": "дли́нен, длинна́, дли́нно, дли́нны"
+				},
+				{
+					"english": "long",
+					"russian": "дли́нный"
+				},
+				{
+					"english": "short",
+					"russian": "коро́ткий"
+				},
+				{
+					"english": "too short",
+					"russian": "ко́роток, коротка́, ко́ротко, ко́ротки"
+				},
+				{
+					"english": "narrow",
+					"russian": "у́зкий"
+				},
+				{
+					"english": "too narrow",
+					"russian": "у́зок, узка́, у́зко, у́зки"
+				},
+				{
+					"english": "wide, broad",
+					"russian": "широ́кий"
+				},
+				{
+					"english": "too wide",
+					"russian": "широ́к, широка́, широко́, широки́"
+				},
+				{
+					"english": "young",
+					"russian": "молодо́й"
+				},
+				{
+					"english": "too young",
+					"russian": "мо́лод, молода́, мо́лодо, мо́лоды"
+				},
+				{
+					"english": "too old",
+					"russian": "ста́р, стара́, ста́ро, ста́ры"
+				},
+				{
+					"english": "old",
+					"russian": "ста́рый"
+				},
+				{
+					"english": "new",
+					"russian": "но́в, но́во, нова́, но́вы"
+				},
+				{
+					"english": "beautiful",
+					"russian": "краси́в, краси́ва, краси́во, краси́вы"
+				},
+				{
+					"english": "need",
+					"russian": "ну́жен, нужна́, ну́жно, нужны́"
+				},
+				{
+					"english": "should, ought, supposed to",
+					"russian": "до́лжен, должна́, должно́, должны́"
+				}
+			],
+			"INST verbs": [{
+					"english": "писа́ть|написа́ть<br>карандашо́м, ме́лом, ру́чкой",
+					"russian": "write with a pencil, chalk, a pen"
+				}, 
+				{
+					"english": "е́сть|съесть<br>ло́жкой, ви́лкой, ножо́м, рука́ми",
+					"russian": "eat with a spoon, fork, knife, hands"
+				}, 
+				{
+					"english": "е́здить|е́хать|пое́хать<br>авто́бусом, по́ездом, трамва́ем",
+					"russian": "go by bus, train, tram"
+				}, 
+				{
+					"english": "открыва́ть|откры́ть<br>дверь ключо́м",
+					"russian": "unlock a door with a key"
+				}, 
+				{
+					"english": "закрыва́ть|закры́ть дверь ключо́м",
+					"russian": "lock a door with a key"
+				}, 
+				{
+					"english": "занима́ться|(спортом, физикой)",
+					"russian": "study, do, do homework, be occupied with"
+				}, 
+				{
+					"english": "интересова́ться|заинтересова́ться (музыкой, русским языком)",
+					"russian": "be interested in"
+				}, 
+				{
+					"english": "называ́ть|назва́ть (Марком, Катей)",
+					"russian": "name"
+				}, 
+				{
+					"english": "станови́ться|ста́ть (кем|чем)",
+					"russian": "become (what|who)"
+				}, 
+				{
+					"english": "рабо́тать кем (врачом, преподвателем)",
+					"russian": "work as what (doctor, teacher)"
+				}, 
+				{
+					"english": "роди́ться краси́вой, бе́дным",
+					"russian": "be born beautiful, poor"
+				}
+			]	
+		}
+	},
+	"Troika": {
+		"Chapter 1": {
+			"Part 1": [{
+					"english": "actor",
+					"russian": "актёр"
+				}, {
+					"english": "actress",
+					"russian": "актри́са"
+				}, {
+					"english": "artist",
+					"russian": "арти́ст"
+				}, {
+					"english": "astronaut",
+					"russian": "астронáвт"
+				}, {
+					"english": "ballerina",
+					"russian": "балери́на"
+				}, {
+					"english": "basketball player",
+					"russian": "баскетболи́ст"
+				}, {
+					"english": "children",
+					"russian": "дети"
+				}, {
+					"english": "composer",
+					"russian": "компози́тор"
+				}, {
+					"english": "cosmonaut",
+					"russian": "космонáвт"
+				}, {
+					"english": "pianist",
+					"russian": "пиани́ст"
+				}, {
+					"english": "writer",
+					"russian": "писáтель"
+				}, {
+					"english": "president",
+					"russian": "президéнт"
+				}, {
+					"english": "professor",
+					"russian": "профéссор"
+				}, {
+					"english": "athlete",
+					"russian": "спортсмéн"
+				}, {
+					"english": "student",
+					"russian": "студéнт"
+				}, {
+					"english": "tennis player",
+					"russian": "теннисéи́ст"
+				}, {
+					"english": "tourist",
+					"russian": "тури́ст"
+				}, {
+					"english": "soccer player",
+					"russian": "футболи́ст"
+				}, {
+					"english": "ice-hockey player",
+					"russian": "хоккеи́ст"
+				}, {
+					"english": "chess player",
+					"russian": "шахмати́ст"
+				}, {
+					"english": "American (adj.)",
+					"russian": "америкáнский"
+				}, {
+					"english": "English (adj.)",
+					"russian": "англи́йский"
+				}, {
+					"english": "Canadian (adj.)",
+					"russian": "канáдский"
+				}, {
+					"english": "Russian (adj.)",
+					"russian": "ру́сский"
+				}, {
+					"english": "famous",
+					"russian": "извéстный"
+				}, {
+					"english": "not bad",
+					"russian": "неплохóй"
+				}, {
+					"english": "bad",
+					"russian": "плохóй"
+				}, {
+					"english": "good",
+					"russian": "хорóший"
+				}, {
+					"english": "how",
+					"russian": "как"
+				}, {
+					"english": "not badly",
+					"russian": "неплóхо"
+				}, {
+					"english": "excellent",
+					"russian": "отлично"
+				}, {
+					"english": "very",
+					"russian": "óчень"
+				}, {
+					"english": "badly",
+					"russian": "плóхо"
+				}, {
+					"english": "well",
+					"russian": "хорошó"
+				}, {
+					"english": "me",
+					"russian": "меня́"
+				}, {
+					"english": "you (sg.)",
+					"russian": "тебя́"
+				}, {
+					"english": "him",
+					"russian": "его"
+				}, {
+					"english": "her",
+					"russian": "её"
+				}, {
+					"english": "us",
+					"russian": "нас"
+				}, {
+					"english": "you (pl.)",
+					"russian": "вы"
+				}, {
+					"english": "them",
+					"russian": "их"
+				}, {
+					"english": "who",
+					"russian": "кто"
+				}, {
+					"english": "this is",
+					"russian": "это"
+				}, {
+					"english": "all the best",
+					"russian": "Всегó хорóшего"
+				}, {
+					"english": "good-bye",
+					"russian": "До свидáния"
+				}, {
+					"english": "bye (informal)",
+					"russian": "Покá"
+				}, {
+					"english": "good morning",
+					"russian": "дóброе у́тро"
+				}, {
+					"english": "good evening",
+					"russian": "дóбрый вéчер"
+				}, {
+					"english": "good day",
+					"russian": "дóбрый день"
+				}, {
+					"english": "hello",
+					"russian": "здрáвствуйте"
+				}, {
+					"english": "how are things",
+					"russian": "как дела"
+				}, {
+					"english": "and (with) you",
+					"russian": "а у вас"
+				}, {
+					"english": "hi",
+					"russian": "привет"
+				}, {
+					"english": "good night",
+					"russian": "Спокóйной нóчи"
+				}, {
+					"english": "what is your name",
+					"russian": "как вас зову́т"
+				}, {
+					"english": "nice to meet you",
+					"russian": "очень приятно"
+				}, {
+					"english": "and, but",
+					"russian": "а"
+				}, {
+					"english": "yes",
+					"russian": "да"
+				}, {
+					"english": "and",
+					"russian": "и"
+				}, {
+					"english": "or",
+					"russian": "или"
+				}, {
+					"english": "not",
+					"russian": "не"
+				}, {
+					"english": "no",
+					"russian": "нет"
+				}, {
+					"english": "thank you",
+					"russian": "спасибо"
+				}, {
+					"english": "also",
+					"russian": "тоже"
+				}
+			]
+		},
+		"Chapter 10": {
+			"Part 1": [{
+					"english": "biology",
+					"russian": "биолóгия"
+				}, {
+					"english": "history",
+					"russian": "истóрия"
+				}, {
+					"english": "literature",
+					"russian": "литерату́ра"
+				}, {
+					"english": "mathematics",
+					"russian": "матемáтика"
+				}, {
+					"english": "subject",
+					"russian": "предмéт"
+				}, {
+					"english": "finance",
+					"russian": "финáнсы"
+				}, {
+					"english": "physics",
+					"russian": "фи́зика"
+				}, {
+					"english": "chemistry",
+					"russian": "хи́мия"
+				}, {
+					"english": "economics",
+					"russian": "эконóмика"
+				}, {
+					"english": "language",
+					"russian": "язы́к"
+				}, {
+					"english": "quiz",
+					"russian": "контрóльная рабóта"
+				}, {
+					"english": "grade",
+					"russian": "отмéтка"
+				}, {
+					"english": "exam",
+					"russian": "экзáмен"
+				}, {
+					"english": "(post) graduate program",
+					"russian": "аспиранту́ра"
+				}, {
+					"english": "class session",
+					"russian": "заня́тие"
+				}, {
+					"english": "class (year in school)",
+					"russian": "класс"
+				}, {
+					"english": "year level in university",
+					"russian": "курс"
+				}, {
+					"english": "lecture",
+					"russian": "лéкция"
+				}, {
+					"english": "seminar",
+					"russian": "семинáр"
+				}, {
+					"english": "department",
+					"russian": "факультéт"
+				}, {
+					"english": "graduate student",
+					"russian": "аспирáнт"
+				}, {
+					"english": "bachelor's degree",
+					"russian": "бакалáвр"
+				}, {
+					"english": "schoolboy",
+					"russian": "шкóльник"
+				}, {
+					"english": "schoolgirl",
+					"russian": "шкóльница"
+				}, {
+					"english": "school holidays",
+					"russian": "кани́кулы"
+				}, {
+					"english": "semester",
+					"russian": "семéстр"
+				}, {
+					"english": "specialty, major",
+					"russian": "специáльность"
+				}, {
+					"english": "philosophy",
+					"russian": "филосóфский"
+				}, {
+					"english": "foreign",
+					"russian": "инострáнный"
+				}, {
+					"english": "native",
+					"russian": "роднóй"
+				}, {
+					"english": "first",
+					"russian": "пéрвый"
+				}, {
+					"english": "second",
+					"russian": "вторóй"
+				}, {
+					"english": "third",
+					"russian": "трéтий"
+				}, {
+					"english": "fourth",
+					"russian": "четвёртый"
+				}, {
+					"english": "fifth",
+					"russian": "пя́тый"
+				}, {
+					"english": "sixth",
+					"russian": "шестóй"
+				}, {
+					"english": "seventh",
+					"russian": "седьмóй"
+				}, {
+					"english": "eighth",
+					"russian": "восьмóй"
+				}, {
+					"english": "ninth",
+					"russian": "девя́тый"
+				}, {
+					"english": "tenth",
+					"russian": "деся́тый"
+				}, {
+					"english": "eleventh",
+					"russian": "оди́ннадцатый"
+				}, {
+					"english": "twelfth",
+					"russian": "двенáдцатый"
+				}, {
+					"english": "written",
+					"russian": "пи́сьменный"
+				}, {
+					"english": "difficult",
+					"russian": "тру́дный"
+				}, {
+					"english": "oral",
+					"russian": "у́стный"
+				}, {
+					"english": "more difficult",
+					"russian": "труднéе"
+				}, {
+					"english": "to study (something)",
+					"russian": "изучáть + Acc."
+				}, {
+					"english": "to answer",
+					"russian": "отвечáть"
+				}, {
+					"english": "to write",
+					"russian": "писáть"
+				}, {
+					"english": "to teach",
+					"russian": "преподавáть"
+				}, {
+					"english": "to rent",
+					"russian": "снимáть"
+				}, {
+					"english": "to study at a place",
+					"russian": "учи́ться"
+				}, {
+					"english": "a lot more",
+					"russian": "намнóго"
+				}, {
+					"english": "cheap",
+					"russian": "дёшево"
+				}, {
+					"english": "cheaper",
+					"russian": "дешевле"
+				}, {
+					"english": "expensive",
+					"russian": "дорого"
+				}, {
+					"english": "more expensive",
+					"russian": "дороже"
+				}
+			]
+		},
+		"Chapter 11": {
+			"Part 1": [{
+					"english": "orange (fruit)",
+					"russian": "апельси́н"
+				}, {
+					"english": "banana",
+					"russian": "банáн"
+				}, {
+					"english": "wine",
+					"russian": "винó"
+				}, {
+					"english": "water",
+					"russian": "водá"
+				}, {
+					"english": "Vodka",
+					"russian": "во́дка"
+				}, {
+					"english": "caviar",
+					"russian": "икра"
+				}, {
+					"english": "cabbage",
+					"russian": "капу́ста"
+				}, {
+					"english": "potatoes",
+					"russian": "картóфель"
+				}, {
+					"english": "sausage",
+					"russian": "колбаса́"
+				}, {
+					"english": "coffee",
+					"russian": "кóфе"
+				}, {
+					"english": "chicken",
+					"russian": "ку́рица"
+				}, {
+					"english": "lemonade",
+					"russian": "лимонáд"
+				}, {
+					"english": "onion",
+					"russian": "лук"
+				}, {
+					"english": "butter, oil",
+					"russian": "ма́сло"
+				}, {
+					"english": "milk",
+					"russian": "молоко́"
+				}, {
+					"english": "ice cream",
+					"russian": "моро́женое"
+				}, {
+					"english": "meat",
+					"russian": "мя́со"
+				}, {
+					"english": "vegetables",
+					"russian": "óвощи"
+				}, {
+					"english": "cucumber",
+					"russian": "огурéц"
+				}, {
+					"english": "beer",
+					"russian": "пи́во"
+				}, {
+					"english": "tomato",
+					"russian": "помидóр"
+				}, {
+					"english": "bird, poultry",
+					"russian": "пти́ца"
+				}, {
+					"english": "rice",
+					"russian": "рис"
+				}, {
+					"english": "fish",
+					"russian": "ры́ба"
+				}, {
+					"english": "salad",
+					"russian": "салáт"
+				}, {
+					"english": "juice",
+					"russian": "сок"
+				}, {
+					"english": "cheese",
+					"russian": "сыр"
+				}, {
+					"english": "cake",
+					"russian": "торт"
+				}, {
+					"english": "fruit",
+					"russian": "фру́кты"
+				}, {
+					"english": "bread",
+					"russian": "хлеб"
+				}, {
+					"english": "tea",
+					"russian": "чай"
+				}, {
+					"english": "chocolate",
+					"russian": "шоколáд"
+				}, {
+					"english": "apple",
+					"russian": "я́блоко"
+				}, {
+					"english": "egg",
+					"russian": "яйцо"
+				}, {
+					"english": "supermarket",
+					"russian": "суперма́ркет"
+				}, {
+					"english": "farmer's market",
+					"russian": "ры́нок"
+				}, {
+					"english": "can, jar",
+					"russian": "бáнка"
+				}, {
+					"english": "bottle",
+					"russian": "буты́лка"
+				}, {
+					"english": "gram",
+					"russian": "грамм"
+				}, {
+					"english": "gram (2,3,4)",
+					"russian": "грамма"
+				}, {
+					"english": "gram (5+)",
+					"russian": "граммов"
+				}, {
+					"english": "kilogram",
+					"russian": "килогрáмм"
+				}, {
+					"english": "kilogram (2,3,4)",
+					"russian": "килограмма"
+				}, {
+					"english": "kilogram (5+)",
+					"russian": "килограммов"
+				}, {
+					"english": "liter",
+					"russian": "литр"
+				}, {
+					"english": "carton",
+					"russian": "пакéт"
+				}, {
+					"english": "package",
+					"russian": "пáчка"
+				}, {
+					"english": "half a kilo",
+					"russian": "полкилó"
+				}, {
+					"english": "half a liter",
+					"russian": "пóл-ли́тра"
+				}, {
+					"english": "young woman",
+					"russian": "дéвушка"
+				}, {
+					"english": "money",
+					"russian": "дéньги"
+				}, {
+					"english": "dollar",
+					"russian": "дóллар"
+				}, {
+					"english": "dollar (2,3,4)",
+					"russian": "доллара"
+				}, {
+					"english": "dollar (5+)",
+					"russian": "долларов"
+				}, {
+					"english": "rouble",
+					"russian": "рубль"
+				}, {
+					"english": "rouble (2,3,4)",
+					"russian": "рубля́"
+				}, {
+					"english": "rouble (5+)",
+					"russian": "рубле́й"
+				}, {
+					"english": "refrigerator",
+					"russian": "холоди́льник"
+				}, {
+					"english": "cent",
+					"russian": "цент"
+				}, {
+					"english": "person",
+					"russian": "человéк"
+				}, {
+					"english": "cheap(ly) (adv.)",
+					"russian": "дёшево"
+				}, {
+					"english": "expensive(ly) (adv.)",
+					"russian": "дóрого"
+				}, {
+					"english": "little",
+					"russian": "мáло"
+				}, {
+					"english": "less",
+					"russian": "мéньше"
+				}, {
+					"english": "a lot",
+					"russian": "мнóго"
+				}, {
+					"english": "must, need",
+					"russian": "нáдо"
+				}, {
+					"english": "how much, how many",
+					"russian": "скóлько"
+				}, {
+					"english": "to eat",
+					"russian": "есть"
+				}, {
+					"english": "I eat",
+					"russian": "я ем"
+				}, {
+					"english": "you eat",
+					"russian": "ты ешь"
+				}, {
+					"english": "he eats",
+					"russian": "он ест"
+				}, {
+					"english": "we eat",
+					"russian": "мы едим"
+				}, {
+					"english": "you all eat",
+					"russian": "вы едите"
+				}, {
+					"english": "they eat",
+					"russian": "они едят"
+				}, {
+					"english": "they ate",
+					"russian": "ели"
+				}, {
+					"english": "to buy",
+					"russian": "купи́ть"
+				}, {
+					"english": "to drink",
+					"russian": "пить"
+				}, {
+					"english": "to sell",
+					"russian": "продавáть"
+				}, {
+					"english": "to cost",
+					"russian": "стóить"
+				}
+			]
+		},
+		"Chapter 12": {
+			"Part 1": [{
+					"english": "ticket",
+					"russian": "билéт"
+				}, {
+					"english": "club",
+					"russian": "клуб"
+				}, {
+					"english": "concert",
+					"russian": "концéрт"
+				}, {
+					"english": "game, match",
+					"russian": "матч"
+				}, {
+					"english": "TV or radio broadcast",
+					"russian": "передáча"
+				}, {
+					"english": "half an hour",
+					"russian": "полчасá"
+				}, {
+					"english": "program",
+					"russian": "прогрáмма"
+				}, {
+					"english": "report, paper",
+					"russian": "реферáт"
+				}, {
+					"english": "still",
+					"russian": "ещё"
+				}, {
+					"english": "not yet",
+					"russian": "ещё не"
+				}, {
+					"english": "(in) no way",
+					"russian": "никáк"
+				}, {
+					"english": "in that case",
+					"russian": "тогдá"
+				}, {
+					"english": "exact, exactly",
+					"russian": "тóчно"
+				}, {
+					"english": "already",
+					"russian": "ужé"
+				}, {
+					"english": "all day",
+					"russian": "весь день"
+				}, {
+					"english": "something",
+					"russian": "чтó-нибудь"
+				}, {
+					"english": "in/within (a period of time)",
+					"russian": "за + Acc."
+				}, {
+					"english": "after (something)",
+					"russian": "пóсле + Gen."
+				}, {
+					"english": "by, at (something, someone)",
+					"russian": "у + Gen."
+				}, {
+					"english": "to see",
+					"russian": "ви́деть"
+				}, {
+					"english": "to prepare",
+					"russian": "готóвить / приготóвить"
+				}, {
+					"english": "to do",
+					"russian": "дéлать / сдéлать"
+				}, {
+					"english": "to go, to travel (uni-dir.)",
+					"russian": "éхать"
+				}, {
+					"english": "to eat breakfast",
+					"russian": "зáвтракать / позáвтракать"
+				}, {
+					"english": "to end",
+					"russian": "закáнчиваться"
+				}, {
+					"english": "to call (on the telephone)",
+					"russian": "звони́ть"
+				}, {
+					"english": "to buy",
+					"russian": "покупáть / купи́ть"
+				}, {
+					"english": "to be able",
+					"russian": "мочь"
+				}, {
+					"english": "to begin",
+					"russian": "начинáться / начáть"
+				}, {
+					"english": "to eat lunch",
+					"russian": "обéдать / пообéдать"
+				}, {
+					"english": "to be late",
+					"russian": "опáздывать / опоздáть"
+				}, {
+					"english": "to answer",
+					"russian": "отвечáть / отвéтить"
+				}, {
+					"english": "to rest",
+					"russian": "отдыхáть"
+				}, {
+					"english": "to sing",
+					"russian": "петь"
+				}, {
+					"english": "to write",
+					"russian": "писáть / написáть"
+				}, {
+					"english": "to drink",
+					"russian": "пить / вы́пить"
+				}, {
+					"english": "to go, to leave (by vehicle; uni-dir.)",
+					"russian": "поéхать"
+				}, {
+					"english": "to go, to leave (by foot; uni-dir.)",
+					"russian": "пойти́"
+				}, {
+					"english": "to take (an exam) / to pass (an exam)",
+					"russian": "сдавáть / сдать (экзамен)"
+				}, {
+					"english": "to watch, to look",
+					"russian": "смотрéть / посмотрéть"
+				}, {
+					"english": "to dance",
+					"russian": "танцевать"
+				}, {
+					"english": "to eat dinner",
+					"russian": "у́жинать / поу́жинать"
+				}, {
+					"english": "to want",
+					"russian": "хотéть"
+				}, {
+					"english": "to read",
+					"russian": "читáть / прочитáть"
+				}, {
+					"english": "All the best!",
+					"russian": "Всегó хорóшего!"
+				}, {
+					"english": "let's watch",
+					"russian": "давáй посмóтрим"
+				}, {
+					"english": "out of town",
+					"russian": "зá город"
+				}, {
+					"english": "all right",
+					"russian": "лáдно"
+				}, {
+					"english": "Just a minute!",
+					"russian": "Мину́т(оч)ку!"
+				}, {
+					"english": "I have to",
+					"russian": "мне нáдо"
+				}, {
+					"english": "Well done",
+					"russian": "Молодец!"
+				}, {
+					"english": "with me",
+					"russian": "со мной"
+				}, {
+					"english": "I am tired",
+					"russian": "я устáл/-а"
+				}
+			]
+		},
+		"Chapter 13": {
+			"Part 1": [{
+					"english": "necktie",
+					"russian": "гáлстук"
+				}, {
+					"english": "perfume",
+					"russian": "духи́"
+				}, {
+					"english": "toy",
+					"russian": "игру́шка"
+				}, {
+					"english": "ring",
+					"russian": "кольцó"
+				}, {
+					"english": "doll",
+					"russian": "ку́кла"
+				}, {
+					"english": "teddy bear",
+					"russian": "ми́шка"
+				}, {
+					"english": "ball",
+					"russian": "мяч"
+				}, {
+					"english": "clothing",
+					"russian": "одéжда"
+				}, {
+					"english": "gift, present",
+					"russian": "подáрок"
+				}, {
+					"english": "airplane",
+					"russian": "самолёт"
+				}, {
+					"english": "sweater",
+					"russian": "сви́тер"
+				}, {
+					"english": "earring",
+					"russian": "серёжка"
+				}, {
+					"english": "purse, bag",
+					"russian": "су́мка"
+				}, {
+					"english": "flowers",
+					"russian": "цветы́"
+				}, {
+					"english": "watch",
+					"russian": "часы́"
+				}, {
+					"english": "scarf",
+					"russian": "шарф"
+				}, {
+					"english": "party",
+					"russian": "вечери́нка"
+				}, {
+					"english": "International Women's Day (8th of March)",
+					"russian": "Восьмóе мáрта"
+				}, {
+					"english": "Grandfather Frost",
+					"russian": "Дед Морóз"
+				}, {
+					"english": "birthday",
+					"russian": "день рождéния"
+				}, {
+					"english": "Easter",
+					"russian": "Пáсха"
+				}, {
+					"english": "celebration, holiday",
+					"russian": "прáздник"
+				}, {
+					"english": "Christmas",
+					"russian": "Рождествó"
+				}, {
+					"english": "Snow maiden",
+					"russian": "Снегу́рочка"
+				}, {
+					"english": "January",
+					"russian": "янвáрь"
+				}, {
+					"english": "February",
+					"russian": "феврáль"
+				}, {
+					"english": "March",
+					"russian": "март"
+				}, {
+					"english": "April",
+					"russian": "апрéль"
+				}, {
+					"english": "May",
+					"russian": "май"
+				}, {
+					"english": "June",
+					"russian": "июнь"
+				}, {
+					"english": "July",
+					"russian": "июль"
+				}, {
+					"english": "August",
+					"russian": "áвгуст"
+				}, {
+					"english": "September",
+					"russian": "сентя́брь"
+				}, {
+					"english": "October",
+					"russian": "октя́брь"
+				}, {
+					"english": "November",
+					"russian": "ноя́брь"
+				}, {
+					"english": "December",
+					"russian": "декáбрь"
+				}, {
+					"english": "younger (adj)",
+					"russian": "млáдший"
+				}, {
+					"english": "younger (comparative adj)",
+					"russian": "молóже"
+				}, {
+					"english": "young (adj)",
+					"russian": "молодóй"
+				}, {
+					"english": "older (comparative adj)",
+					"russian": "стáрше"
+				}, {
+					"english": "older (adj)",
+					"russian": "стáрший"
+				}, {
+					"english": "most of all",
+					"russian": "бóльше всегó"
+				}, {
+					"english": "soon",
+					"russian": "скóро"
+				}, {
+					"english": "to whom, for whom (dat.)",
+					"russian": "кому́"
+				}, {
+					"english": "to me, for me (dat.)",
+					"russian": "мне"
+				}, {
+					"english": "to you, for you (dat.)",
+					"russian": "тебé"
+				}, {
+					"english": "to him, for him (dat.)",
+					"russian": "ему́"
+				}, {
+					"english": "to her, for her (dat.)",
+					"russian": "ей"
+				}, {
+					"english": "to us, for us (dat.)",
+					"russian": "нам"
+				}, {
+					"english": "to you, for you (pl) (dat.)",
+					"russian": "вам"
+				}, {
+					"english": "to them, for them (dat.)",
+					"russian": "им"
+				}, {
+					"english": "one's own (poss.)",
+					"russian": "свой"
+				}, {
+					"english": "to/toward what",
+					"russian": "к чему́"
+				}, {
+					"english": "from what",
+					"russian": "от чегó"
+				}, {
+					"english": "to give (impf)",
+					"russian": "давáть"
+				}, {
+					"english": "to give (pf)",
+					"russian": "дать"
+				}, {
+					"english": "to give as a present (impf)",
+					"russian": "дари́ть"
+				}, {
+					"english": "to give as a present (pf)",
+					"russian": "подари́ть"
+				}, {
+					"english": "to like, to please (impf)",
+					"russian": "нрáвиться"
+				}, {
+					"english": "to like, to please (pf)",
+					"russian": "понрáвиться"
+				}, {
+					"english": "to buy (impf)",
+					"russian": "покупáть"
+				}, {
+					"english": "to buy (pf)",
+					"russian": "купи́ть"
+				}, {
+					"english": "to get, receive (impf)",
+					"russian": "получáть"
+				}, {
+					"english": "to get, receive (pf)",
+					"russian": "получи́ть"
+				}, {
+					"english": "to help (impf)",
+					"russian": "помогáть"
+				}, {
+					"english": "to help (pf)",
+					"russian": "помóчь"
+				}, {
+					"english": "to invite (impf)",
+					"russian": "приглашáть"
+				}, {
+					"english": "to invite (pf)",
+					"russian": "пригласи́ть"
+				}, {
+					"english": "to be born (pf)",
+					"russian": "роди́ться"
+				}, {
+					"english": "to give advice, to advise (impf)",
+					"russian": "совéтовать"
+				}, {
+					"english": "to give advice, to advise (pf)",
+					"russian": "посовéтовать"
+				}, {
+					"english": "to die, pass away (impf)",
+					"russian": "умирáть"
+				}, {
+					"english": "to die, pass away (pf)",
+					"russian": "умерéть"
+				}, {
+					"english": "Happy Birthday",
+					"russian": "С днём рождéния"
+				}, {
+					"english": "Happy New Year",
+					"russian": "С Нóвым годом"
+				}
+			]
+		},
+		"Chapter 14": {
+			"Part 1": [{
+					"english": "wind",
+					"russian": "вéтер"
+				}, {
+					"english": "degree",
+					"russian": "грáдус"
+				}, {
+					"english": "storm",
+					"russian": "грозá"
+				}, {
+					"english": "rain",
+					"russian": "дóждь"
+				}, {
+					"english": "frost",
+					"russian": "морóз"
+				}, {
+					"english": "weather",
+					"russian": "погóда"
+				}, {
+					"english": "snow",
+					"russian": "снег"
+				}, {
+					"english": "temperature",
+					"russian": "температу́ра"
+				}, {
+					"english": "on the Fahrenheit scale",
+					"russian": "по Фаренгéйту"
+				}, {
+					"english": "on the Celsius scale",
+					"russian": "по Цéльсию"
+				}, {
+					"english": "tree",
+					"russian": "дéрево"
+				}, {
+					"english": "star",
+					"russian": "звездá"
+				}, {
+					"english": "earth",
+					"russian": "земля́"
+				}, {
+					"english": "moon",
+					"russian": "лунá"
+				}, {
+					"english": "sky",
+					"russian": "нéбо"
+				}, {
+					"english": "cloud",
+					"russian": "óблако"
+				}, {
+					"english": "sun",
+					"russian": "сóлнце"
+				}, {
+					"english": "flowers",
+					"russian": "цветы́"
+				}, {
+					"english": "jacket",
+					"russian": "ку́ртка"
+				}, {
+					"english": "sleeveless t-shirt",
+					"russian": "мáйка"
+				}, {
+					"english": "(over)coat",
+					"russian": "пальтó"
+				}, {
+					"english": "gloves",
+					"russian": "перчáтки"
+				}, {
+					"english": "boots",
+					"russian": "сапоги́"
+				}, {
+					"english": "sweater",
+					"russian": "сви́тер"
+				}, {
+					"english": "T-shirt",
+					"russian": "футбóлка"
+				}, {
+					"english": "hat",
+					"russian": "шáпка"
+				}, {
+					"english": "scarf",
+					"russian": "шарф"
+				}, {
+					"english": "shorts",
+					"russian": "шóрты"
+				}, {
+					"english": "zoo",
+					"russian": "зоопáрк"
+				}, {
+					"english": "beach",
+					"russian": "пляж"
+				}, {
+					"english": "happy, fun-loving (adj)",
+					"russian": "весёлый"
+				}, {
+					"english": "high, tall (adj)",
+					"russian": "высóкий"
+				}, {
+					"english": "higher (comp adj)",
+					"russian": "вы́ше"
+				}, {
+					"english": "happy, fun (adv)",
+					"russian": "вéсело"
+				}, {
+					"english": "high (adv)",
+					"russian": "высокó"
+				}, {
+					"english": "hot (adj)",
+					"russian": "жáркий"
+				}, {
+					"english": "hot, hotly (adv)",
+					"russian": "жáрко"
+				}, {
+					"english": "hotter (comp adj)",
+					"russian": "жáрче"
+				}, {
+					"english": "short (adj)",
+					"russian": "корóткий"
+				}, {
+					"english": "short (adv)",
+					"russian": "кóротко"
+				}, {
+					"english": "shorter (comp adj)",
+					"russian": "корóче"
+				}, {
+					"english": "lower (comp adj)",
+					"russian": "ни́же"
+				}, {
+					"english": "low (adj)",
+					"russian": "ни́зкий"
+				}, {
+					"english": "low (adv)",
+					"russian": "ни́зко"
+				}, {
+					"english": "cloudy (adj)",
+					"russian": "óблачный"
+				}, {
+					"english": "cloudy (adv)",
+					"russian": "óблачно"
+				}, {
+					"english": "overcast (adv)",
+					"russian": "пáсмурно"
+				}, {
+					"english": "wonderful (adj)",
+					"russian": "прекрáсный"
+				}, {
+					"english": "wonderful, wonderfully (adv)",
+					"russian": "прекрáсно"
+				}, {
+					"english": "cool (adj)",
+					"russian": "прохлáдный"
+				}, {
+					"english": "cool (adv)",
+					"russian": "прохлáдно"
+				}, {
+					"english": "light (adj)",
+					"russian": "свéтлый"
+				}, {
+					"english": "light (adv)",
+					"russian": "светлó"
+				}, {
+					"english": "strong (adj)",
+					"russian": "си́льный"
+				}, {
+					"english": "strong(ly) (adv)",
+					"russian": "си́льно"
+				}, {
+					"english": "boring, dull (adj)",
+					"russian": "ску́чный"
+				}, {
+					"english": "boring(ly), dull(y) (adv)",
+					"russian": "ску́чно"
+				}, {
+					"english": "weak (adj)",
+					"russian": "слáбый"
+				}, {
+					"english": "weak, weakly (adv)",
+					"russian": "слáбо"
+				}, {
+					"english": "sunny (adj)",
+					"russian": "сóлнечный"
+				}, {
+					"english": "sunny, sunnily (adv)",
+					"russian": "сóлнечно"
+				}, {
+					"english": "such (adj)",
+					"russian": "такóй"
+				}, {
+					"english": "so (adv)",
+					"russian": "так"
+				}, {
+					"english": "dark (adj)",
+					"russian": "тёмный"
+				}, {
+					"english": "dark, darkly (adv)",
+					"russian": "темнó"
+				}, {
+					"english": "warm (adj)",
+					"russian": "тёплый"
+				}, {
+					"english": "warm, warmly (adv)",
+					"russian": "теплó"
+				}, {
+					"english": "cold (adj)",
+					"russian": "холóдный"
+				}, {
+					"english": "cold, coldly (adv)",
+					"russian": "хóлодно"
+				}, {
+					"english": "bright (adj)",
+					"russian": "я́ркий"
+				}, {
+					"english": "bright, brightly (adv)",
+					"russian": "я́рко"
+				}, {
+					"english": "brighter (comp adj)",
+					"russian": "я́рче"
+				}, {
+					"english": "clear (adj)",
+					"russian": "я́сный"
+				}, {
+					"english": "clear, clearly (adv)",
+					"russian": "я́сно"
+				}, {
+					"english": "to be, happen, occur (impf)",
+					"russian": "бывáть"
+				}, {
+					"english": "to put on (as in clothes) (impf)",
+					"russian": "надевáть"
+				}, {
+					"english": "to put on (as in clothes) (pf)",
+					"russian": "надéть"
+				}, {
+					"english": "to talk, chat (impf)",
+					"russian": "разговáривать"
+				}, {
+					"english": "is shining",
+					"russian": "свéтит"
+				}, {
+					"english": "to take off (as in clothes) (impf)",
+					"russian": "снимáть"
+				}, {
+					"english": "to take off (as in clothes) (pf)",
+					"russian": "снять"
+				}, {
+					"english": "if",
+					"russian": "éсли"
+				}, {
+					"english": "minus, below zero",
+					"russian": "ми́нус"
+				}, {
+					"english": "must, it is necessary (adv)",
+					"russian": "нáдо"
+				}, {
+					"english": "by far, much (adv)",
+					"russian": "намнóго"
+				}, {
+					"english": "zero",
+					"russian": "ноль"
+				}, {
+					"english": "plus, above zero",
+					"russian": "плюс"
+				}
+			]
+		},
+		"Chapter 15": {
+			"Part 1": [{
+					"english": "bus",
+					"russian": "автóбус"
+				}, {
+					"english": "airport",
+					"russian": "аэропóрт"
+				}, {
+					"english": "ticket",
+					"russian": "билéт"
+				}, {
+					"english": "visa",
+					"russian": "ви́за"
+				}, {
+					"english": "train station",
+					"russian": "вокзáл"
+				}, {
+					"english": "border",
+					"russian": "грани́ца"
+				}, {
+					"english": "abroad (direction)",
+					"russian": "за грани́цу"
+				}, {
+					"english": "abroad (location)",
+					"russian": "за грани́цей"
+				}, {
+					"english": "money",
+					"russian": "дéньги"
+				}, {
+					"english": "credit card",
+					"russian": "креди́тная кáрточка"
+				}, {
+					"english": "hotel room",
+					"russian": "нóмер"
+				}, {
+					"english": "train",
+					"russian": "пóезд"
+				}, {
+					"english": "airplane",
+					"russian": "самолёт"
+				}, {
+					"english": "metro station",
+					"russian": "стáнция"
+				}, {
+					"english": "street car",
+					"russian": "трамвáй"
+				}, {
+					"english": "suitcase",
+					"russian": "чемодáн"
+				}, {
+					"english": "razor",
+					"russian": "бри́тва"
+				}, {
+					"english": "pants",
+					"russian": "брю́ки"
+				}, {
+					"english": "necktie",
+					"russian": "гáлстук"
+				}, {
+					"english": "jeans",
+					"russian": "джи́нсы"
+				}, {
+					"english": "umbrella",
+					"russian": "зóнтик"
+				}, {
+					"english": "suit",
+					"russian": "костю́м"
+				}, {
+					"english": "cardigan",
+					"russian": "кóфта"
+				}, {
+					"english": "athletic shoes",
+					"russian": "кроссóвки"
+				}, {
+					"english": "women's bathing suit",
+					"russian": "купáльник"
+				}, {
+					"english": "jacket",
+					"russian": "ку́ртка"
+				}, {
+					"english": "socks",
+					"russian": "носки́"
+				}, {
+					"english": "glasses",
+					"russian": "очки́"
+				}, {
+					"english": "sunglasses",
+					"russian": "сóлнечные очки́"
+				}, {
+					"english": "coat",
+					"russian": "пальтó"
+				}, {
+					"english": "toothpaste",
+					"russian": "зу́бная пáста"
+				}, {
+					"english": "gloves",
+					"russian": "перчáтки"
+				}, {
+					"english": "men's swimsuit",
+					"russian": "плáвки"
+				}, {
+					"english": "dress",
+					"russian": "плáтье"
+				}, {
+					"english": "shirt (button-up)",
+					"russian": "рубáшка"
+				}, {
+					"english": "backpack",
+					"russian": "рюкзáк"
+				}, {
+					"english": "boots",
+					"russian": "сапоги́"
+				}, {
+					"english": "sweater",
+					"russian": "сви́тер"
+				}, {
+					"english": "purse, bag",
+					"russian": "су́мка"
+				}, {
+					"english": "shoes (dress shoes)",
+					"russian": "ту́фли"
+				}, {
+					"english": "t-shirt",
+					"russian": "футбóлка"
+				}, {
+					"english": "winter hat",
+					"russian": "шáпка"
+				}, {
+					"english": "scarf",
+					"russian": "шарф"
+				}, {
+					"english": "shorts",
+					"russian": "шóрты"
+				}, {
+					"english": "brush",
+					"russian": "щётка"
+				}, {
+					"english": "toothbrush",
+					"russian": "зу́бная щётка"
+				}, {
+					"english": "skirt",
+					"russian": "ю́бка"
+				}, {
+					"english": "next year",
+					"russian": "в слéдующем году́"
+				}, {
+					"english": "end",
+					"russian": "конéц"
+				}, {
+					"english": "at the end",
+					"russian": "в концé"
+				}, {
+					"english": "beginning",
+					"russian": "начáло"
+				}, {
+					"english": "in the beginning",
+					"russian": "в начáле"
+				}, {
+					"english": "middle",
+					"russian": "середи́на"
+				}, {
+					"english": "in the middle",
+					"russian": "в середи́не"
+				}, {
+					"english": "in the evenings",
+					"russian": "по вечерáм"
+				}, {
+					"english": "half a year",
+					"russian": "полгóда"
+				}, {
+					"english": "period of time",
+					"russian": "срок"
+				}, {
+					"english": "for how long",
+					"russian": "на какой срок"
+				}, {
+					"english": "coast",
+					"russian": "бéрег"
+				}, {
+					"english": "fool",
+					"russian": "дурáк"
+				}, {
+					"english": "elevator",
+					"russian": "лифт"
+				}, {
+					"english": "garden",
+					"russian": "сад"
+				}, {
+					"english": "ну́жен",
+					"russian": "этáж"
+				}, {
+					"english": "пля́жный",
+					"russian": "needed, necessary(short adj)"
+				}, {
+					"english": "слéдующий",
+					"russian": "various"
+				}, {
+					"english": "fast",
+					"russian": "бы́стро"
+				}, {
+					"english": "slowly (adv)",
+					"russian": "мéдленно"
+				}, {
+					"english": "ago (adv)",
+					"russian": "назáд"
+				}, {
+					"english": "carefully",
+					"russian": "осторóжно"
+				}, {
+					"english": "where from",
+					"russian": "отку́да"
+				}, {
+					"english": "quietly",
+					"russian": "ти́хо"
+				}, {
+					"english": "quieter",
+					"russian": "ти́ше"
+				}, {
+					"english": "to there",
+					"russian": "тудá"
+				}, {
+					"english": "from what/where",
+					"russian": "из чего"
+				}, {
+					"english": "in/after how much time",
+					"russian": "чéрез скóлько врéмени"
+				}, {
+					"english": "for how much time",
+					"russian": "на скóлько врéмени"
+				}, {
+					"english": "to take",
+					"russian": "взять"
+				}, {
+					"english": "to return (impf. vb.)",
+					"russian": "возвращáться"
+				}, {
+					"english": "to return (pf. vb.)",
+					"russian": "верну́ться"
+				}, {
+					"english": "to forget (impf. vb.)",
+					"russian": "забывáть"
+				}, {
+					"english": "to forget (pf. vb.)",
+					"russian": "забы́ть"
+				}, {
+					"english": "to go (by vehicle) (uni-dir. impf. vb.)",
+					"russian": "éхать"
+				}, {
+					"english": "to tan (impf. vb)",
+					"russian": "загорáть"
+				}, {
+					"english": "to close (impf. vb.)",
+					"russian": "закрывáть"
+				}, {
+					"english": "to close (pf. vb.)",
+					"russian": "закры́ть"
+				}, {
+					"english": "to swim, bathe (impf. vb.)",
+					"russian": "купáться"
+				}, {
+					"english": "to relax, rest (impf. vb.)",
+					"russian": "отдыхáть"
+				}, {
+					"english": "to relax, rest (pf. vb.)",
+					"russian": "отдохну́ть"
+				}, {
+					"english": "to open (impf. vb.)",
+					"russian": "открывáть"
+				}, {
+					"english": "to open (pf. vb.)",
+					"russian": "откры́ть"
+				}, {
+					"english": "to go, leave, set off (by vehicle) (pf. uni-dir. vb.)",
+					"russian": "поéхать"
+				}, {
+					"english": "to put (pf. vb.)",
+					"russian": "положи́ть"
+				}, {
+					"english": "to lose (impf. vb.)",
+					"russian": "потеря́ть"
+				}, {
+					"english": "to prefer (impf. vb.)",
+					"russian": "предпочитáть"
+				}, {
+					"english": "to arrive (by vehicle) (pf. uni-dir. vb.)",
+					"russian": "приéхать"
+				}, {
+					"english": "to leave (pf. uni-dir.vb.)",
+					"russian": "уéхать"
+				}, {
+					"english": "turn on (a light, appliance) (imperative)",
+					"russian": "включи́(те)"
+				}, {
+					"english": "stand up (imperative)",
+					"russian": "встáнь(те)"
+				}, {
+					"english": "turn off (a light, appliance) (imperative)",
+					"russian": "вы́ключи(те)"
+				}, {
+					"english": "wait (imperative)",
+					"russian": "подожди́(те)"
+				}, {
+					"english": "be quiet (imperative)",
+					"russian": "помолчи́(те)"
+				}, {
+					"english": "sit down, have a seat (imperative)",
+					"russian": "сади́сь, сади́тесь"
+				}, {
+					"english": "if",
+					"russian": "если"
+				}, {
+					"english": "stop",
+					"russian": "стоп"
+				}
+			]
+		},
+		"Chapter 16": {
+			"Part 1": [{
+					"english": "pineapple",
+					"russian": "ананáс"
+				}, {
+					"english": "watermelon",
+					"russian": "арбу́з"
+				}, {
+					"english": "lamb",
+					"russian": "барáнина"
+				}, {
+					"english": "loaf (baguette)",
+					"russian": "батóн"
+				}, {
+					"english": "Russian pancakes/crepes",
+					"russian": "блины́"
+				}, {
+					"english": "bagel",
+					"russian": "бу́блик"
+				}, {
+					"english": "bun, roll",
+					"russian": "бу́лочка"
+				}, {
+					"english": "(open-faced) sandwich",
+					"russian": "бутербрóд"
+				}, {
+					"english": "jam, jelly",
+					"russian": "варéнье"
+				}, {
+					"english": "hamburger",
+					"russian": "гáмбургер"
+				}, {
+					"english": "beef",
+					"russian": "говя́дина"
+				}, {
+					"english": "mustard",
+					"russian": "горчи́ца"
+				}, {
+					"english": "pear",
+					"russian": "гру́ша"
+				}, {
+					"english": "drink from fermented bread",
+					"russian": "квас"
+				}, {
+					"english": "ketchup",
+					"russian": "кéтчуп"
+				}, {
+					"english": "yogurt drink",
+					"russian": "кефи́р"
+				}, {
+					"english": "strawberry",
+					"russian": "клубни́ка"
+				}, {
+					"english": "ice",
+					"russian": "лёд"
+				}, {
+					"english": "with ice",
+					"russian": "со льдом"
+				}, {
+					"english": "without ice",
+					"russian": "без льда"
+				}, {
+					"english": "lemon",
+					"russian": "лимóн"
+				}, {
+					"english": "onion",
+					"russian": "лук"
+				}, {
+					"english": "mayonnaise",
+					"russian": "майонéз"
+				}, {
+					"english": "macaroni",
+					"russian": "макарóны"
+				}, {
+					"english": "raspberry",
+					"russian": "мали́на"
+				}, {
+					"english": "honey",
+					"russian": "мёд"
+				}, {
+					"english": "flour",
+					"russian": "мукá"
+				}, {
+					"english": "drink",
+					"russian": "напи́ток"
+				}, {
+					"english": "cucumber",
+					"russian": "огурéц"
+				}, {
+					"english": "pepper",
+					"russian": "пéрец"
+				}, {
+					"english": "peach",
+					"russian": "пéрсик"
+				}, {
+					"english": "parsley",
+					"russian": "петру́шка"
+				}, {
+					"english": "cookie",
+					"russian": "печéнье"
+				}, {
+					"english": "pie",
+					"russian": "пирóг"
+				}, {
+					"english": "stuffed bun",
+					"russian": "пирожóк"
+				}, {
+					"english": "pastry, small cake",
+					"russian": "пирóжное"
+				}, {
+					"english": "pizza",
+					"russian": "пи́цца"
+				}, {
+					"english": "tomato",
+					"russian": "помидóр"
+				}, {
+					"english": "doughnut",
+					"russian": "пóнчик"
+				}, {
+					"english": "condiments, spices",
+					"russian": "припрáвы"
+				}, {
+					"english": "gingerbread cookie",
+					"russian": "пря́ник"
+				}, {
+					"english": "rice",
+					"russian": "рис"
+				}, {
+					"english": "sugar",
+					"russian": "сáхар"
+				}, {
+					"english": "beet",
+					"russian": "свёкла"
+				}, {
+					"english": "pork",
+					"russian": "свини́на"
+				}, {
+					"english": "cream",
+					"russian": "сли́вки"
+				}, {
+					"english": "salt",
+					"russian": "соль"
+				}, {
+					"english": "link sausage",
+					"russian": "соси́ски"
+				}, {
+					"english": "spaghetti",
+					"russian": "спагéтти"
+				}, {
+					"english": "Russian cottage cheese",
+					"russian": "твóрог"
+				}, {
+					"english": "dough",
+					"russian": "тéсто"
+				}, {
+					"english": "dill",
+					"russian": "укрóп"
+				}, {
+					"english": "vinegar",
+					"russian": "у́ксус"
+				}, {
+					"english": "ground beef",
+					"russian": "фарш"
+				}, {
+					"english": "cereal",
+					"russian": "хлóпья"
+				}, {
+					"english": "blueberry",
+					"russian": "черни́ка"
+				}, {
+					"english": "garlic",
+					"russian": "чеснóк"
+				}, {
+					"english": "Georgian shish kebab",
+					"russian": "шашлы́к"
+				}, {
+					"english": "dish",
+					"russian": "блю́до"
+				}, {
+					"english": "wineglass",
+					"russian": "бокáл"
+				}, {
+					"english": "fork",
+					"russian": "ви́лка"
+				}, {
+					"english": "dessert",
+					"russian": "десéрт"
+				}, {
+					"english": "food, meal",
+					"russian": "едá"
+				}, {
+					"english": "order",
+					"russian": "закáз"
+				}, {
+					"english": "appetizer, snack",
+					"russian": "заку́ска"
+				}, {
+					"english": "credit card",
+					"russian": "креди́тная кáрточка"
+				}, {
+					"english": "mug",
+					"russian": "кру́жка"
+				}, {
+					"english": "spoon",
+					"russian": "лóжка"
+				}, {
+					"english": "tablespoon",
+					"russian": "столóвая лóжка"
+				}, {
+					"english": "teaspoon",
+					"russian": "чáйная лóжка"
+				}, {
+					"english": "menu",
+					"russian": "меню́"
+				}, {
+					"english": "knife",
+					"russian": "нож"
+				}, {
+					"english": "chopsticks",
+					"russian": "пáлочки"
+				}, {
+					"english": "liqueur glass",
+					"russian": "рю́мка"
+				}, {
+					"english": "plate",
+					"russian": "тарéлка"
+				}, {
+					"english": "napkin",
+					"russian": "салфéтка"
+				}, {
+					"english": "tablecloth",
+					"russian": "скáтерть"
+				}, {
+					"english": "glass",
+					"russian": "стакáн"
+				}, {
+					"english": "table",
+					"russian": "стóлик"
+				}, {
+					"english": "shot glass",
+					"russian": "стóпка"
+				}, {
+					"english": "check",
+					"russian": "счёт"
+				}, {
+					"english": "toast (drink)",
+					"russian": "тост"
+				}, {
+					"english": "tip",
+					"russian": "чаевы́е"
+				}, {
+					"english": "tea cup",
+					"russian": "чáшка"
+				}, {
+					"english": "bliny house",
+					"russian": "бли́нная"
+				}, {
+					"english": "bakery",
+					"russian": "бу́лочная"
+				}, {
+					"english": "buffet",
+					"russian": "буфéт"
+				}, {
+					"english": "dining hall, cafeteria",
+					"russian": "столóвая"
+				}, {
+					"english": "pastry bakery",
+					"russian": "конди́терская"
+				}, {
+					"english": "cuisine",
+					"russian": "ку́хня"
+				}, {
+					"english": "shish-kebab house",
+					"russian": "шашлы́чная"
+				}, {
+					"english": "vegetarian",
+					"russian": "вегетериáнец"
+				}, {
+					"english": "party",
+					"russian": "вечери́нка"
+				}, {
+					"english": "meeting",
+					"russian": "встрéча"
+				}, {
+					"english": "head (of a table)",
+					"russian": "главá"
+				}, {
+					"english": "at the head of the table",
+					"russian": "во главé стóла"
+				}, {
+					"english": "diet",
+					"russian": "диéта"
+				}, {
+					"english": "friendship",
+					"russian": "дру́жба"
+				}, {
+					"english": "health",
+					"russian": "здорóвье"
+				}, {
+					"english": "acquaintance",
+					"russian": "знакóмство"
+				}, {
+					"english": "ingredient",
+					"russian": "ингредиéнт"
+				}, {
+					"english": "nutrition",
+					"russian": "питáние"
+				}, {
+					"english": "produce",
+					"russian": "проду́кты"
+				}, {
+					"english": "recipe",
+					"russian": "рецéпт"
+				}, {
+					"english": "hand",
+					"russian": "рукá"
+				}, {
+					"english": "хозя́ина",
+					"russian": "хозя́ин"
+				}, {
+					"english": "hostess",
+					"russian": "host"
+				}, {
+					"english": "tasty, delicious (adj)",
+					"russian": "вку́сный"
+				}, {
+					"english": "carbonated water",
+					"russian": "газирóванная вода"
+				}, {
+					"english": "hot (of food/liquid) (adj)",
+					"russian": "горя́чий"
+				}, {
+					"english": "dirty (adj)",
+					"russian": "гря́зный"
+				}, {
+					"english": "closed (short adj)",
+					"russian": "закры́т"
+				}, {
+					"english": "occupied, busy (short adj)",
+					"russian": "зáнят"
+				}, {
+					"english": "open (short adj)",
+					"russian": "откры́т"
+				}, {
+					"english": "useful, good (for health) (adj)",
+					"russian": "полéзный"
+				}, {
+					"english": "fresh (adj)",
+					"russian": "свéжий"
+				}, {
+					"english": "free, vacant (short adj)",
+					"russian": "свобóден"
+				}, {
+					"english": "sweet (adj)",
+					"russian": "слáдкий"
+				}, {
+					"english": "dry (adj)",
+					"russian": "сухóй"
+				}, {
+					"english": "clean (adj)",
+					"russian": "чи́стый"
+				}, {
+					"english": "in advance (adv)",
+					"russian": "зарáнее"
+				}, {
+					"english": "later (adv)",
+					"russian": "(по) пóзже"
+				}, {
+					"english": "to there (adv)",
+					"russian": "тудá"
+				}, {
+					"english": "without something",
+					"russian": "без чего"
+				}, {
+					"english": "for something",
+					"russian": "для чего"
+				}, {
+					"english": "to, for something",
+					"russian": "за что"
+				}, {
+					"english": "between something (and something)",
+					"russian": "между чем (и чем)"
+				}, {
+					"english": "next to, alongside something",
+					"russian": "рядом с чем"
+				}, {
+					"english": "with something/someone",
+					"russian": "с чем/кем"
+				}, {
+					"english": "to wait (impf)",
+					"russian": "ждать"
+				}, {
+					"english": "to wait (pf)",
+					"russian": "подождáть"
+				}, {
+					"english": "to hold (impf.)",
+					"russian": "держáть"
+				}, {
+					"english": "to order, reserve (impf)",
+					"russian": "закáзывать"
+				}, {
+					"english": "to order, reserve (pf)",
+					"russian": "заказáть"
+				}, {
+					"english": "to snack (impf)",
+					"russian": "заку́сывать"
+				}, {
+					"english": "to snack (pf)",
+					"russian": "закуси́ть"
+				}, {
+					"english": "to feed (impf)",
+					"russian": "корми́ть"
+				}, {
+					"english": "to mix up (pf)",
+					"russian": "перепу́тать"
+				}, {
+					"english": "to put, place (pf)",
+					"russian": "положи́ть"
+				}, {
+					"english": "to get in (pf)",
+					"russian": "попáсть"
+				}, {
+					"english": "to take, accept (impf)",
+					"russian": "принимáть"
+				}, {
+					"english": "Let's meet",
+					"russian": "Давáй встрéтимся"
+				}, {
+					"english": "to give a tip",
+					"russian": "давать/дать на чай"
+				}, {
+					"english": "Bottoms up!",
+					"russian": "До дня!"
+				}, {
+					"english": "Agreed.",
+					"russian": "Договори́лись."
+				}, {
+					"english": "Bon appetit",
+					"russian": "Прия́тного аппети́та"
+				}, {
+					"english": "Please pass",
+					"russian": "Передáйте, пожáлуйста"
+				}, {
+					"english": "Please bring",
+					"russian": "Принеси́те, пожáлуйста"
+				}, {
+					"english": "Come in!",
+					"russian": "Проходи́те"
+				}, {
+					"english": "Sit down! Have a seat!",
+					"russian": "Сади́тесь!"
+				}, {
+					"english": "With pleasure.",
+					"russian": "С удовóльствием."
+				}, {
+					"english": "may not",
+					"russian": "нельзя́"
+				}, {
+					"english": "two (collective number)",
+					"russian": "двóе"
+				}, {
+					"english": "three (collective number)",
+					"russian": "трóе"
+				}, {
+					"english": "four (collective number)",
+					"russian": "чéтверо"
+				}, {
+					"english": "five (collective number)",
+					"russian": "пя́теро"
+				}, {
+					"english": "See you tonight then.",
+					"russian": "До вéчера тогдá."
+				}
+			]
+		},
+		"Chapter 17": {
+			"Part 1": [{
+					"english": "marriage (masc. noun)",
+					"russian": "брак"
+				}, {
+					"english": "wedding ceremony, nuptials (official) (neut. noun)",
+					"russian": "бракосочетáние"
+				}, {
+					"english": "(little) girl (fem. noun)",
+					"russian": "дéвочка"
+				}, {
+					"english": "bridegroom, (male) fiance (masc. noun)",
+					"russian": "жени́х"
+				}, {
+					"english": "wedding ring (neut. noun)",
+					"russian": "обручáльное кольцó"
+				}, {
+					"english": "love (fem. noun)",
+					"russian": "любóвь"
+				}, {
+					"english": "(little) boy (masc. noun)",
+					"russian": "мáльчик"
+				}, {
+					"english": "newly weds (pl. noun)",
+					"russian": "молодожёны"
+				}, {
+					"english": "bride, (female) fiance (fem. noun)",
+					"russian": "невéста"
+				}, {
+					"english": "child (masc. noun)",
+					"russian": "ребёнок"
+				}, {
+					"english": "birth (neut. noun)",
+					"russian": "рождéние"
+				}, {
+					"english": "wedding ceremony (fem. noun)",
+					"russian": "свáдьба"
+				}, {
+					"english": "death (fem. noun)",
+					"russian": "смерть"
+				}, {
+					"english": "ceremony (fem. noun)",
+					"russian": "церемóния"
+				}, {
+					"english": "education (neut. noun)",
+					"russian": "образовáние"
+				}, {
+					"english": "schooling, teaching (neut. noun)",
+					"russian": "обучéние"
+				}, {
+					"english": "ending, finishing (neut. noun)",
+					"russian": "окончáние"
+				}, {
+					"english": "plan (mas. noun)",
+					"russian": "план"
+				}, {
+					"english": "solder (subst. adj)",
+					"russian": "воéнний"
+				}, {
+					"english": "diplomat (masc. noun)",
+					"russian": "дипломáт"
+				}, {
+					"english": "pilot (masc. noun)",
+					"russian": "лётчик"
+				}, {
+					"english": "(male) singer (masc. noun)",
+					"russian": "певéц"
+				}, {
+					"english": "(female) singer (fem. noun)",
+					"russian": "певи́ца"
+				}, {
+					"english": "firefighter (masc. subst. adj)",
+					"russian": "пожáрный"
+				}, {
+					"english": "police officer (masc. subst. adj)",
+					"russian": "полицéйский"
+				}, {
+					"english": "psychiatrist (masc. noun)",
+					"russian": "психиáтр"
+				}, {
+					"english": "intelligence officer (masc. noun)",
+					"russian": "развéдчик"
+				}, {
+					"english": "solder (masc. noun)",
+					"russian": "солдáт"
+				}, {
+					"english": "musician (masc. noun)",
+					"russian": "музыкáнт"
+				}, {
+					"english": "surgeon (masc. noun)",
+					"russian": "хиру́рг"
+				}, {
+					"english": "running (masc. noun)",
+					"russian": "бег"
+				}, {
+					"english": "wrestling (fem. noun)",
+					"russian": "борьбá"
+				}, {
+					"english": "bicycling (masc. noun)",
+					"russian": "велосипéдный спорт"
+				}, {
+					"english": "horseback riding (fem. noun)",
+					"russian": "верховáя ездá"
+				}, {
+					"english": "fencing (neut. noun)",
+					"russian": "фехтовáние"
+				}, {
+					"english": "physical education (fem. noun)",
+					"russian": "физкульту́ра"
+				}, {
+					"english": "walking (fem. noun)",
+					"russian": "ходьбá"
+				}, {
+					"english": "army (fem. noun)",
+					"russian": "áрмия"
+				}, {
+					"english": "the future (neut. subst. adj.)",
+					"russian": "бу́дущее"
+				}, {
+					"english": "age (masc. noun)",
+					"russian": "вóзраст"
+				}, {
+					"english": "interest (masc. noun)",
+					"russian": "интерéс"
+				}, {
+					"english": "dream (fem. noun)",
+					"russian": "мечтá"
+				}, {
+					"english": "millionaire (masc. noun)",
+					"russian": "миллионéр"
+				}, {
+					"english": "survey (masc. noun)",
+					"russian": "опрóс"
+				}, {
+					"english": "relation(ship) (neut. noun)",
+					"russian": "отношéние"
+				}, {
+					"english": "guy (masc. noun)",
+					"russian": "пáрень"
+				}, {
+					"english": "highest (adj)",
+					"russian": "вы́сший"
+				}, {
+					"english": "I'm glad, I'm satisfied",
+					"russian": "довóлен"
+				}, {
+					"english": "satisfied (short adj)",
+					"russian": "довóльны"
+				}, {
+					"english": "famous, well-known (adj)",
+					"russian": "знамени́тый"
+				}, {
+					"english": "easy (short adj)",
+					"russian": "легкó"
+				}, {
+					"english": "ski(ing) (adj)",
+					"russian": "лы́жный"
+				}, {
+					"english": "international (adj)",
+					"russian": "междунарóдный"
+				}, {
+					"english": "stylish, fashionable (adj)",
+					"russian": "мóдный"
+				}, {
+					"english": "prestigious (adj)",
+					"russian": "прести́жный"
+				}, {
+					"english": "early (soft adj)",
+					"russian": "рáнний"
+				}, {
+					"english": "complicated (adj)",
+					"russian": "слóжный"
+				}, {
+					"english": "fairly, rather (adv)",
+					"russian": "довóльно"
+				}, {
+					"english": "soon (adv)",
+					"russian": "скóро"
+				}, {
+					"english": "just",
+					"russian": "тóлько что"
+				}, {
+					"english": "exactly (adv)",
+					"russian": "тóчно"
+				}, {
+					"english": "each other",
+					"russian": "друг дру́га"
+				}, {
+					"english": "both",
+					"russian": "óба"
+				}, {
+					"english": "myself",
+					"russian": "сам"
+				}, {
+					"english": "myself, yourself, ourselves, etc.",
+					"russian": "сáми"
+				}, {
+					"english": "before, until something",
+					"russian": "до чего-то"
+				}, {
+					"english": "after something",
+					"russian": "пóсле чего-то"
+				}, {
+					"english": "in order to, that, so that",
+					"russian": "чтóбы"
+				}, {
+					"english": "to join (a party, military, etc.) (pf. vb.)",
+					"russian": "вступи́ть"
+				}, {
+					"english": "to get married (of a woman) (impf. vb.)",
+					"russian": "вы́ходить зáмуж за кем-то"
+				}, {
+					"english": "to get married (of a woman) (pf. vb.)",
+					"russian": "вы́йти зáмуж за кем-то"
+				}, {
+					"english": "to be friends with someone (impf. vb.)",
+					"russian": "дружи́ть с кем-то"
+				}, {
+					"english": "to wait for/expect something/someone (impf. vb)",
+					"russian": "ждать чего-то/кого-то"
+				}, {
+					"english": "to get married to someone (of a man) (impf. vb.)",
+					"russian": "жени́ться на ком-то"
+				}, {
+					"english": "to look for (impf. vb.)",
+					"russian": "искáть"
+				}, {
+					"english": "to study, be occupied with something (impf. vb.)",
+					"russian": "занимáться чем-то"
+				}, {
+					"english": "to have, own (impf. vb.)",
+					"russian": "имéть"
+				}, {
+					"english": "to be interested in something (impf. vb.)",
+					"russian": "интересовáться чем-то"
+				}, {
+					"english": "to dream about something (impf. vb.)",
+					"russian": "мечтáть о чём-то"
+				}, {
+					"english": "to name (impf. vb.)",
+					"russian": "назывáть"
+				}, {
+					"english": "to name (pf. vb.)",
+					"russian": "назвáть"
+				}, {
+					"english": "to carry, to wear (impf. vb.)",
+					"russian": "носи́ть"
+				}, {
+					"english": "to finish, conclude (pf. vb.)",
+					"russian": "окóнчить"
+				}, {
+					"english": "to think (for a little while (pf. vb.)",
+					"russian": "поду́мать"
+				}, {
+					"english": "to marry (each other) (pf. vb.)",
+					"russian": "пожени́ться"
+				}, {
+					"english": "to fall in love with someone (pf. vb.)",
+					"russian": "полюби́ть кого-то"
+				}, {
+					"english": "to apply to university (impf. vb.)",
+					"russian": "поступáть в университéт"
+				}, {
+					"english": "to enroll in / enter university (pf. vb.)",
+					"russian": "поступи́ть в университéт"
+				}, {
+					"english": "to kiss (impf./pf.)",
+					"russian": "цéловать / поцéловать"
+				}, {
+					"english": "to kiss each other (pf. vb.)",
+					"russian": "поцéловаться"
+				}, {
+					"english": "to get divorced from someone (pf. vb.)",
+					"russian": "развести́сь с кем-то"
+				}, {
+					"english": "to fall out of love with someone (pf. vb.)",
+					"russian": "разлюби́ть кого-то"
+				}, {
+					"english": "to decide (impf. vb.)",
+					"russian": "решáть"
+				}, {
+					"english": "to decide (pf. vb)",
+					"russian": "реши́ть"
+				}, {
+					"english": "to become something/someone (pf. vb.)",
+					"russian": "стать кем-то/чем-то"
+				}
+			]
+		},
+		"Chapter 18": {
+			"Part 1": [{
+					"english": "Eyes",
+					"russian": "Глаза"
+				}, {
+					"english": "Mouth",
+					"russian": "Рот"
+				}, {
+					"english": "Lips",
+					"russian": "Губы"
+				}, {
+					"english": "Teeth",
+					"russian": "Зубы"
+				}, {
+					"english": "Throat",
+					"russian": "Горло"
+				}, {
+					"english": "Shoulders",
+					"russian": "Плечи"
+				}, {
+					"english": "Chest",
+					"russian": "Грудь"
+				}, {
+					"english": "To complain",
+					"russian": "Жаловаться"
+				}, {
+					"english": "Back",
+					"russian": "Спина"
+				}, {
+					"english": "Arms",
+					"russian": "Руки"
+				}, {
+					"english": "Fingers",
+					"russian": "Пальцы"
+				}, {
+					"english": "Legs",
+					"russian": "Ноги"
+				}, {
+					"english": "Stomach",
+					"russian": "Живот"
+				}, {
+					"english": "Who do you look like?",
+					"russian": "На кого ты похож?"
+				}, {
+					"english": "I look like",
+					"russian": "Я такой же"
+				}, {
+					"english": "Are you sick?",
+					"russian": "Вы больны?"
+				}, {
+					"english": "I am sick",
+					"russian": "Я болен"
+				}, {
+					"english": "Where is your pain?",
+					"russian": "Что у тебя болит?"
+				}, {
+					"english": "I have pain",
+					"russian": "У меня болит"
+				}, {
+					"english": "What's wrong?",
+					"russian": "Что с тобой?"
+				}, {
+					"english": "Blood",
+					"russian": "Кровь"
+				}, {
+					"english": "Lungs",
+					"russian": "Лёгкие"
+				}, {
+					"english": "Heart",
+					"russian": "Сердце"
+				}, {
+					"english": "How do you feel?",
+					"russian": "Как ты себя чувствуешь?"
+				}, {
+					"english": "I feel",
+					"russian": "Я чувствую себя"
+				}, {
+					"english": "Worse",
+					"russian": "Хуже"
+				}, {
+					"english": "Better",
+					"russian": "Лучше"
+				}, {
+					"english": "Fine",
+					"russian": "Нормально"
+				}, {
+					"english": "Sinus infection",
+					"russian": "Простуда"
+				}, {
+					"english": "I was sick",
+					"russian": "Я заболел"
+				}, {
+					"english": "Runny nose",
+					"russian": "Насморк"
+				}, {
+					"english": "Cough",
+					"russian": "Кашель"
+				}, {
+					"english": "High temperature",
+					"russian": "Высокая температура"
+				}, {
+					"english": "Nauseous",
+					"russian": "Тошнит"
+				}, {
+					"english": "I am very tired",
+					"russian": "Я очень устал"
+				}, {
+					"english": "I don't want to eat",
+					"russian": "Мне не хочется есть"
+				}, {
+					"english": "I can't sleep",
+					"russian": "Мне не спится"
+				}, {
+					"english": "Are you still sick?",
+					"russian": "Ты ещё болен?"
+				}, {
+					"english": "I am already healthy",
+					"russian": "Я уже здоров"
+				}, {
+					"english": "Strep throat",
+					"russian": "Ангина"
+				}, {
+					"english": "Flu",
+					"russian": "Грипп"
+				}, {
+					"english": "Glasses",
+					"russian": "Очки"
+				}, {
+					"english": "Medicine",
+					"russian": "Лекарство"
+				}, {
+					"english": "Asthma",
+					"russian": "Астма"
+				}, {
+					"english": "Stop smoking",
+					"russian": "Бросить курить"
+				}, {
+					"english": "Measure temperature",
+					"russian": "Измерить температуру"
+				}, {
+					"english": "Take medicine",
+					"russian": "Принимать лекарство"
+				}, {
+					"english": "Aspirin",
+					"russian": "Аспирин"
+				}, {
+					"english": "Call emergency",
+					"russian": "Вызвать скорую помощь"
+				}, {
+					"english": "Go to the doctor",
+					"russian": "Пойти к врачу"
+				}, {
+					"english": "What do they advise?",
+					"russian": "Что вы им посоветуете?"
+				}, {
+					"english": "To lose weight",
+					"russian": "Похудеть"
+				}, {
+					"english": "To gain weight",
+					"russian": "Поправиться"
+				}, {
+					"english": "X ray",
+					"russian": "Рентген"
+				}, {
+					"english": "Blood test",
+					"russian": "Анализ крови"
+				}, {
+					"english": "Diagnosis",
+					"russian": "Диагноз"
+				}, {
+					"english": "Pills",
+					"russian": "Таблетки"
+				}, {
+					"english": "Antibiotics",
+					"russian": "Антибиотики"
+				}, {
+					"english": "Blood pressure",
+					"russian": "Кровяное давление"
+				}, {
+					"english": "To be treated",
+					"russian": "Лечиться"
+				}, {
+					"english": "To fall",
+					"russian": "Упасть"
+				}, {
+					"english": "Ambulance",
+					"russian": "Скорая помощь"
+				}, {
+					"english": "Doctors office",
+					"russian": "Кабинет врача"
+				}, {
+					"english": "Dentist",
+					"russian": "Зубной врач"
+				}, {
+					"english": "Injection",
+					"russian": "Укол"
+				}, {
+					"english": "Inspection",
+					"russian": "Осмотр"
+				}, {
+					"english": "Surgeon",
+					"russian": "Хирург"
+				}, {
+					"english": "Fearful",
+					"russian": "Страшно"
+				}
+			]
+		},
+		"Chapter 2": {
+			"Part 1": [{
+					"english": "grandmother",
+					"russian": "бáбушка"
+				}, {
+					"english": "brother",
+					"russian": "брат"
+				}, {
+					"english": "grandson",
+					"russian": "внук"
+				}, {
+					"english": "granddaughter",
+					"russian": "вну́чка"
+				}, {
+					"english": "grandfather",
+					"russian": "дéдушка"
+				}, {
+					"english": "children",
+					"russian": "дéти"
+				}, {
+					"english": "daughter",
+					"russian": "дочь"
+				}, {
+					"english": "uncle",
+					"russian": "дя́дя"
+				}, {
+					"english": "wife",
+					"russian": "женá"
+				}, {
+					"english": "mama, mom, mother",
+					"russian": "мáмa"
+				}, {
+					"english": "mother",
+					"russian": "мать"
+				}, {
+					"english": "husband",
+					"russian": "муж"
+				}, {
+					"english": "father",
+					"russian": "отéц"
+				}, {
+					"english": "papa, dad, father",
+					"russian": "пáпа"
+				}, {
+					"english": "family",
+					"russian": "семья́"
+				}, {
+					"english": "sister",
+					"russian": "сестрá"
+				}, {
+					"english": "son",
+					"russian": "сын"
+				}, {
+					"english": "aunt",
+					"russian": "тётя"
+				}, {
+					"english": "American (masc.)",
+					"russian": "америкáнец"
+				}, {
+					"english": "American (fem.)",
+					"russian": "америкáнка"
+				}, {
+					"english": "Canadian (masc.)",
+					"russian": "канáдец"
+				}, {
+					"english": "Canadian (fem.)",
+					"russian": "канáдка"
+				}, {
+					"english": "Russian (masc.)",
+					"russian": "ру́сский"
+				}, {
+					"english": "Russian (fem.)",
+					"russian": "ру́сская"
+				}, {
+					"english": "friend (masc.)",
+					"russian": "друг"
+				}, {
+					"english": "friend (fem.)",
+					"russian": "подру́га"
+				}, {
+					"english": "teacher (college level)",
+					"russian": "преподавáтель"
+				}, {
+					"english": "photograph",
+					"russian": "фотогрáфия"
+				}, {
+					"english": "beautiful",
+					"russian": "краси́выи́"
+				}, {
+					"english": "young",
+					"russian": "молодóй"
+				}, {
+					"english": "nice",
+					"russian": "симпати́чный"
+				}, {
+					"english": "in English",
+					"russian": "по-англи́йски"
+				}, {
+					"english": "in Spanish",
+					"russian": "по-испáнски"
+				}, {
+					"english": "in Chinese",
+					"russian": "по-китáйски"
+				}, {
+					"english": "in German",
+					"russian": "по-немéцки"
+				}, {
+					"english": "in Russian",
+					"russian": "по-ру́сски"
+				}, {
+					"english": "in French",
+					"russian": "по-францу́зски"
+				}, {
+					"english": "in Japanese",
+					"russian": "по-япóнски"
+				}, {
+					"english": "a little",
+					"russian": "немнóго"
+				}, {
+					"english": "badly",
+					"russian": "плóхо"
+				}, {
+					"english": "not badly",
+					"russian": "неплóхо"
+				}, {
+					"english": "fluently",
+					"russian": "свобóдно"
+				}, {
+					"english": "well",
+					"russian": "хорошó"
+				}, {
+					"english": "not well",
+					"russian": "нехорóшо"
+				}, {
+					"english": "I (Nom.)",
+					"russian": "я"
+				}, {
+					"english": "You (inf. sing. Nom)",
+					"russian": "ты"
+				}, {
+					"english": "He (Nom.)",
+					"russian": "он"
+				}, {
+					"english": "She (Nom.)",
+					"russian": "онá"
+				}, {
+					"english": "It (Nom.)",
+					"russian": "онó"
+				}, {
+					"english": "We (Nom.)",
+					"russian": "мы"
+				}, {
+					"english": "You (Form. Pl. Nom.)",
+					"russian": "вы"
+				}, {
+					"english": "They (Nom.)",
+					"russian": "они́"
+				}, {
+					"english": "just a little",
+					"russian": "чуть-чуть"
+				}, {
+					"english": "to speak",
+					"russian": "говори́ть"
+				}, {
+					"english": "to think",
+					"russian": "ду́мать"
+				}, {
+					"english": "to know",
+					"russian": "знать"
+				}, {
+					"english": "to understand",
+					"russian": "понимоть"
+				}, {
+					"english": "to listen",
+					"russian": "слу́шать"
+				}, {
+					"english": "to read",
+					"russian": "читáть"
+				}, {
+					"english": "fast",
+					"russian": "бы́стро"
+				}, {
+					"english": "at home",
+					"russian": "дóма"
+				}, {
+					"english": "still",
+					"russian": "ещё"
+				}, {
+					"english": "and",
+					"russian": "и"
+				}, {
+					"english": "interesting",
+					"russian": "интерéсно"
+				}, {
+					"english": "of course",
+					"russian": "конéчно"
+				}, {
+					"english": "slowly",
+					"russian": "мéдленно"
+				}, {
+					"english": "but",
+					"russian": "но"
+				}, {
+					"english": "Oh, come on!",
+					"russian": "Ну что ты!"
+				}, {
+					"english": "also, in addition",
+					"russian": "тáкже"
+				}, {
+					"english": "only",
+					"russian": "тóлько"
+				}, {
+					"english": "that",
+					"russian": "что"
+				}
+			]
+		},
+		"Chapter 3": {
+			"Part 1": [{
+					"english": "newspaper",
+					"russian": "газéта"
+				}, {
+					"english": "magazine",
+					"russian": "журнáл"
+				}, {
+					"english": "book",
+					"russian": "кни́га"
+				}, {
+					"english": "letter",
+					"russian": "письмó"
+				}, {
+					"english": "novel",
+					"russian": "ромáн"
+				}, {
+					"english": "dictionary",
+					"russian": "словáрь (m.)"
+				}, {
+					"english": "textbook",
+					"russian": "учéбник"
+				}, {
+					"english": "camcorder",
+					"russian": "видеокáмера"
+				}, {
+					"english": "home theater",
+					"russian": "домáшний кинотеáтр"
+				}, {
+					"english": "computer",
+					"russian": "компью́тер"
+				}, {
+					"english": "cell phone",
+					"russian": "моби́льник"
+				}, {
+					"english": "laptop computer",
+					"russian": "ноутбу́к"
+				}, {
+					"english": "player",
+					"russian": "плéер"
+				}, {
+					"english": "printer",
+					"russian": "при́нтер"
+				}, {
+					"english": "radio",
+					"russian": "рáдио"
+				}, {
+					"english": "stereo system",
+					"russian": "стереосистéма"
+				}, {
+					"english": "television",
+					"russian": "телеви́зор"
+				}, {
+					"english": "telephone",
+					"russian": "телефóн"
+				}, {
+					"english": "camera",
+					"russian": "фотоаппарáт"
+				}, {
+					"english": "bicycle",
+					"russian": "велосипéд"
+				}, {
+					"english": "car",
+					"russian": "маши́на"
+				}, {
+					"english": "motorcycle",
+					"russian": "мотоци́кл"
+				}, {
+					"english": "cat",
+					"russian": "кóшка"
+				}, {
+					"english": "horse",
+					"russian": "лóшадь (f.)"
+				}, {
+					"english": "dog",
+					"russian": "собáка"
+				}, {
+					"english": "war",
+					"russian": "войнá"
+				}, {
+					"english": "question",
+					"russian": "вопрóс"
+				}, {
+					"english": "peace",
+					"russian": "мир"
+				}, {
+					"english": "truth",
+					"russian": "прáвда"
+				}, {
+					"english": "child",
+					"russian": "ребёнок"
+				}, {
+					"english": "happiness",
+					"russian": "счáстье"
+				}, {
+					"english": "Spanish (adj.)",
+					"russian": "испáнский"
+				}, {
+					"english": "Italian (adj.)",
+					"russian": "италья́нский"
+				}, {
+					"english": "Chinese (adj.)",
+					"russian": "китáйский"
+				}, {
+					"english": "Mexican (adj.)",
+					"russian": "мексикáнский"
+				}, {
+					"english": "German (adj.)",
+					"russian": "немéцкий"
+				}, {
+					"english": "French (adj.)",
+					"russian": "францу́зский"
+				}, {
+					"english": "Japanese (adj.)",
+					"russian": "япóнский"
+				}, {
+					"english": "white",
+					"russian": "бéлый"
+				}, {
+					"english": "light blue",
+					"russian": "голубóй"
+				}, {
+					"english": "yellow",
+					"russian": "жёлтый"
+				}, {
+					"english": "green",
+					"russian": "зелёный"
+				}, {
+					"english": "brown",
+					"russian": "кори́чневый"
+				}, {
+					"english": "red",
+					"russian": "крáсный"
+				}, {
+					"english": "orange",
+					"russian": "орáнжевый"
+				}, {
+					"english": "pink",
+					"russian": "рóзовый"
+				}, {
+					"english": "grey",
+					"russian": "сéрый"
+				}, {
+					"english": "blue",
+					"russian": "си́ний (си́няя, си́нее)"
+				}, {
+					"english": "purple",
+					"russian": "фиолéтовый"
+				}, {
+					"english": "black",
+					"russian": "чёрный"
+				}, {
+					"english": "big, large",
+					"russian": "большóй"
+				}, {
+					"english": "cheap",
+					"russian": "дешёвый"
+				}, {
+					"english": "expensive",
+					"russian": "дорогóй"
+				}, {
+					"english": "only, sole, one and only",
+					"russian": "еди́нственный"
+				}, {
+					"english": "interesting",
+					"russian": "интерéсный"
+				}, {
+					"english": "what, what kind",
+					"russian": "какóй"
+				}, {
+					"english": "little, small",
+					"russian": "мáленький"
+				}, {
+					"english": "younger",
+					"russian": "млáдший"
+				}, {
+					"english": "new",
+					"russian": "нóвый"
+				}, {
+					"english": "boring",
+					"russian": "ску́чный"
+				}, {
+					"english": "older",
+					"russian": "стáрший"
+				}, {
+					"english": "old",
+					"russian": "стáрый"
+				}, {
+					"english": "good",
+					"russian": "хорóший (хорóшая, хорóшее)"
+				}, {
+					"english": "there is, there are",
+					"russian": "есть"
+				}, {
+					"english": "to like, to love",
+					"russian": "люби́ть"
+				}, {
+					"english": "to buy",
+					"russian": "купи́ть"
+				}, {
+					"english": "to want",
+					"russian": "хотéть"
+				}, {
+					"english": "not yet",
+					"russian": "ещё не"
+				}, {
+					"english": "married (of a man)",
+					"russian": "женáт"
+				}, {
+					"english": "married (of a woman)",
+					"russian": "зáмужем"
+				}, {
+					"english": "maybe, perhaps",
+					"russian": "мóжет быть"
+				}, {
+					"english": "in my opinion",
+					"russian": "по-мóему"
+				}, {
+					"english": "I agree",
+					"russian": "я соглáсен/я соглáсна"
+				}
+			]
+		},
+		"Chapter 4": {
+			"Part 1": [{
+					"english": "drugstore",
+					"russian": "апте́ка"
+				}, {
+					"english": "bank",
+					"russian": "банк"
+				}, {
+					"english": "library",
+					"russian": "библиоте́ка"
+				}, {
+					"english": "hospital",
+					"russian": "больни́ца"
+				}, {
+					"english": "city",
+					"russian": "го́род"
+				}, {
+					"english": "hotel",
+					"russian": "гости́ница"
+				}, {
+					"english": "house",
+					"russian": "дом"
+				}, {
+					"english": "building",
+					"russian": "зда́ние"
+				}, {
+					"english": "cafe",
+					"russian": "кафе́"
+				}, {
+					"english": "cinema",
+					"russian": "кинотеа́тр"
+				}, {
+					"english": "store",
+					"russian": "магази́н"
+				}, {
+					"english": "subway",
+					"russian": "метро́"
+				}, {
+					"english": "museum",
+					"russian": "музе́й"
+				}, {
+					"english": "park",
+					"russian": "парк"
+				}, {
+					"english": "square",
+					"russian": "пло́щадь"
+				}, {
+					"english": "post office",
+					"russian": "по́чта"
+				}, {
+					"english": "restaurant",
+					"russian": "рестора́н"
+				}, {
+					"english": "garden",
+					"russian": "сад"
+				}, {
+					"english": "stadium",
+					"russian": "стадио́н"
+				}, {
+					"english": "theater",
+					"russian": "теа́тр"
+				}, {
+					"english": "street",
+					"russian": "у́лица"
+				}, {
+					"english": "department store",
+					"russian": "универма́г"
+				}, {
+					"english": "university",
+					"russian": "университе́т"
+				}, {
+					"english": "church",
+					"russian": "це́рковь"
+				}, {
+					"english": "school",
+					"russian": "шко́ла"
+				}, {
+					"english": "balcony",
+					"russian": "балко́н"
+				}, {
+					"english": "bathroom",
+					"russian": "ва́нная"
+				}, {
+					"english": "garage",
+					"russian": "гара́ж"
+				}, {
+					"english": "living room",
+					"russian": "гости́ная"
+				}, {
+					"english": "summer house",
+					"russian": "да́ча"
+				}, {
+					"english": "door",
+					"russian": "дверь"
+				}, {
+					"english": "children's room/nursery",
+					"russian": "де́тская"
+				}, {
+					"english": "office",
+					"russian": "кабине́т"
+				}, {
+					"english": "apartment",
+					"russian": "кварти́ра"
+				}, {
+					"english": "room",
+					"russian": "ко́мната"
+				}, {
+					"english": "corridor",
+					"russian": "коридо́р"
+				}, {
+					"english": "kitchen",
+					"russian": "ку́хня"
+				}, {
+					"english": "dormitory",
+					"russian": "общежи́тие"
+				}, {
+					"english": "window",
+					"russian": "окно́"
+				}, {
+					"english": "floor",
+					"russian": "пол"
+				}, {
+					"english": "ceiling",
+					"russian": "потоло́к"
+				}, {
+					"english": "bedroom",
+					"russian": "спа́льня"
+				}, {
+					"english": "wall",
+					"russian": "стена́"
+				}, {
+					"english": "dining room",
+					"russian": "столо́вая"
+				}, {
+					"english": "toilet",
+					"russian": "туале́т"
+				}, {
+					"english": "floor, level",
+					"russian": "эта́ж"
+				}, {
+					"english": "sofa",
+					"russian": "дива́н"
+				}, {
+					"english": "painting",
+					"russian": "карти́на"
+				}, {
+					"english": "rug",
+					"russian": "ковёр"
+				}, {
+					"english": "armchair",
+					"russian": "кре́сло"
+				}, {
+					"english": "bed",
+					"russian": "крова́ть"
+				}, {
+					"english": "lamp",
+					"russian": "ла́мпа"
+				}, {
+					"english": "poster",
+					"russian": "плака́т"
+				}, {
+					"english": "shelf",
+					"russian": "по́лка"
+				}, {
+					"english": "table",
+					"russian": "стол"
+				}, {
+					"english": "chair",
+					"russian": "стул"
+				}, {
+					"english": "cabinet",
+					"russian": "шкаф"
+				}, {
+					"english": "writing desk",
+					"russian": "пи́сьменный стол"
+				}, {
+					"english": "book shelf",
+					"russian": "кни́жная по́лка"
+				}, {
+					"english": "bookcase",
+					"russian": "кни́жный шкаф"
+				}, {
+					"english": "near",
+					"russian": "бли́зко"
+				}, {
+					"english": "where",
+					"russian": "где"
+				}, {
+					"english": "far",
+					"russian": "далеко́"
+				}, {
+					"english": "here",
+					"russian": "здесь"
+				}, {
+					"english": "to the left",
+					"russian": "нале́во"
+				}, {
+					"english": "to the right",
+					"russian": "напра́во"
+				}, {
+					"english": "then",
+					"russian": "пото́м"
+				}, {
+					"english": "straight ahead",
+					"russian": "пря́мо"
+				}, {
+					"english": "close by",
+					"russian": "ря́дом"
+				}, {
+					"english": "on the left",
+					"russian": "сле́ва"
+				}, {
+					"english": "on the right",
+					"russian": "спра́ва"
+				}, {
+					"english": "there",
+					"russian": "там"
+				}, {
+					"english": "go",
+					"russian": "иди́те (иди́)"
+				}, {
+					"english": "excuse me",
+					"russian": "извини́те (извини́)"
+				}, {
+					"english": "please/you're welcome",
+					"russian": "пожа́луйста"
+				}, {
+					"english": "say/tell",
+					"russian": "скажи́те (скажи́)"
+				}, {
+					"english": "number",
+					"russian": "но́мер"
+				}, {
+					"english": "Avenue",
+					"russian": "проспе́кт"
+				}, {
+					"english": "is hanging",
+					"russian": "виси́т"
+				}, {
+					"english": "to live",
+					"russian": "жить"
+				}, {
+					"english": "is lying",
+					"russian": "лежи́т"
+				}, {
+					"english": "is called",
+					"russian": "называ́ется"
+				}, {
+					"english": "is located",
+					"russian": "нахо́дится"
+				}, {
+					"english": "is standing",
+					"russian": "стои́т"
+				}
+			]
+		},
+		"Chapter 5": {
+			"Part 1": [{
+					"english": "mountain",
+					"russian": "горá (pl. гóры)"
+				}, {
+					"english": "city",
+					"russian": "гóрод (pl. городá)"
+				}, {
+					"english": "continent",
+					"russian": "континéнт"
+				}, {
+					"english": "world",
+					"russian": "мир"
+				}, {
+					"english": "sea",
+					"russian": "мóре (pl. моря́)"
+				}, {
+					"english": "lake",
+					"russian": "óзеро (pl. озёра)"
+				}, {
+					"english": "ocean",
+					"russian": "океáн"
+				}, {
+					"english": "island",
+					"russian": "óстров (pl. островá)"
+				}, {
+					"english": "peninsula",
+					"russian": "полуóстров (pl. полуостровá)"
+				}, {
+					"english": "river",
+					"russian": "рекá (pl. рéки)"
+				}, {
+					"english": "capital",
+					"russian": "столи́ца"
+				}, {
+					"english": "country",
+					"russian": "странá (pl. стрáны)"
+				}, {
+					"english": "east",
+					"russian": "востóк"
+				}, {
+					"english": "west",
+					"russian": "зáпад"
+				}, {
+					"english": "north",
+					"russian": "сéвер"
+				}, {
+					"english": "south",
+					"russian": "юг"
+				}, {
+					"english": "state",
+					"russian": "штáт"
+				}, {
+					"english": "year",
+					"russian": "год"
+				}, {
+					"english": "years (2,3,4)",
+					"russian": "годá"
+				}, {
+					"english": "years (5+)",
+					"russian": "лет"
+				}, {
+					"english": "people",
+					"russian": "лю́ди (pl.)"
+				}, {
+					"english": "tall",
+					"russian": "высóкий"
+				}, {
+					"english": "deep",
+					"russian": "глубóкий"
+				}, {
+					"english": "long",
+					"russian": "дли́нный"
+				}, {
+					"english": "short",
+					"russian": "корóткий"
+				}, {
+					"english": "low",
+					"russian": "ни́зкий"
+				}, {
+					"english": "the most",
+					"russian": "сáмый"
+				}, {
+					"english": "bigger, more",
+					"russian": "бóльше"
+				}, {
+					"english": "more interesting",
+					"russian": "интерéснее"
+				}, {
+					"english": "more beautiful",
+					"russian": "краси́вее"
+				}, {
+					"english": "better",
+					"russian": "лу́чше"
+				}, {
+					"english": "smaller, less",
+					"russian": "мéньше"
+				}, {
+					"english": "older",
+					"russian": "старéе, стáрше"
+				}, {
+					"english": "for a long time",
+					"russian": "давнó"
+				}, {
+					"english": "why",
+					"russian": "почему́"
+				}, {
+					"english": "because",
+					"russian": "потому́ что"
+				}, {
+					"english": "how much, how many",
+					"russian": "скóлько"
+				}, {
+					"english": "about",
+					"russian": "о"
+				}, {
+					"english": "to live",
+					"russian": "жить (I)"
+				}, {
+					"english": "America",
+					"russian": "Амéрика"
+				}, {
+					"english": "Moscow",
+					"russian": "Москвá"
+				}, {
+					"english": "Russia",
+					"russian": "Росси́я"
+				}, {
+					"english": "St. Petersburg",
+					"russian": "Санкт-Петербу́рг"
+				}, {
+					"english": "USA",
+					"russian": "США"
+				}, {
+					"english": "all one's life",
+					"russian": "всю жизнь"
+				}, {
+					"english": "than",
+					"russian": "чем"
+				}
+			]
+		},
+		"Chapter 6": {
+			"Part 1": [{
+					"english": "librarian",
+					"russian": "библиотéкарь"
+				}, {
+					"english": "businessman",
+					"russian": "бизнесмéн"
+				}, {
+					"english": "doctor, physician",
+					"russian": "врач"
+				}, {
+					"english": "director",
+					"russian": "дирéктор"
+				}, {
+					"english": "housewife",
+					"russian": "домохозя́йка"
+				}, {
+					"english": "journalist",
+					"russian": "журнали́ст"
+				}, {
+					"english": "engineer",
+					"russian": "инженéр"
+				}, {
+					"english": "mathematician",
+					"russian": "матемáтик"
+				}, {
+					"english": "nurse",
+					"russian": "медсестрá / медбрáт"
+				}, {
+					"english": "mechanic",
+					"russian": "мехáник"
+				}, {
+					"english": "nanny",
+					"russian": "ня́ня"
+				}, {
+					"english": "waiter",
+					"russian": "официáнт"
+				}, {
+					"english": "writer",
+					"russian": "писáтель"
+				}, {
+					"english": "teacher",
+					"russian": "преподавáтель"
+				}, {
+					"english": "programmer",
+					"russian": "программи́ст"
+				}, {
+					"english": "salesman",
+					"russian": "продавéц"
+				}, {
+					"english": "saleswoman",
+					"russian": "продавщи́ца"
+				}, {
+					"english": "profession",
+					"russian": "профéссия"
+				}, {
+					"english": "by profession",
+					"russian": "по профéссии"
+				}, {
+					"english": "secretary",
+					"russian": "секретáрь"
+				}, {
+					"english": "teacher (elementary)",
+					"russian": "учи́тель"
+				}, {
+					"english": "female teacher (elementary)",
+					"russian": "учи́тельница"
+				}, {
+					"english": "farmer",
+					"russian": "фéрмер"
+				}, {
+					"english": "student (elementary school)",
+					"russian": "шкóльник"
+				}, {
+					"english": "lawyer",
+					"russian": "юри́ст"
+				}, {
+					"english": "bar",
+					"russian": "бар"
+				}, {
+					"english": "at home",
+					"russian": "дóма"
+				}, {
+					"english": "factory",
+					"russian": "завóд (на)"
+				}, {
+					"english": "institute",
+					"russian": "институ́т"
+				}, {
+					"english": "company",
+					"russian": "компáния"
+				}, {
+					"english": "laboratory",
+					"russian": "лаборатóрия"
+				}, {
+					"english": "office",
+					"russian": "óфис"
+				}, {
+					"english": "health clinic",
+					"russian": "поликли́ника"
+				}, {
+					"english": "company, firm",
+					"russian": "фи́рма"
+				}, {
+					"english": "school",
+					"russian": "шкóла"
+				}, {
+					"english": "Monday",
+					"russian": "понедéльник"
+				}, {
+					"english": "Tuesday",
+					"russian": "втóрник"
+				}, {
+					"english": "Wednesday",
+					"russian": "средá"
+				}, {
+					"english": "Thursday",
+					"russian": "четвéрг"
+				}, {
+					"english": "Friday",
+					"russian": "пя́тница"
+				}, {
+					"english": "Saturday",
+					"russian": "суббóта"
+				}, {
+					"english": "Sunday",
+					"russian": "воскресéнье"
+				}, {
+					"english": "address",
+					"russian": "áдрес"
+				}, {
+					"english": "day",
+					"russian": "день"
+				}, {
+					"english": "per day",
+					"russian": "в день"
+				}, {
+					"english": "woman",
+					"russian": "жéнщина"
+				}, {
+					"english": "name",
+					"russian": "и́мя"
+				}, {
+					"english": "man",
+					"russian": "мужчи́на"
+				}, {
+					"english": "week",
+					"russian": "недéля"
+				}, {
+					"english": "per week",
+					"russian": "в недéлю"
+				}, {
+					"english": "patronymic",
+					"russian": "óтчество"
+				}, {
+					"english": "pension",
+					"russian": "пéнсия"
+				}, {
+					"english": "on a pension, retired",
+					"russian": "на пéнсии"
+				}, {
+					"english": "work, job",
+					"russian": "рабóта"
+				}, {
+					"english": "surname",
+					"russian": "фами́лия"
+				}, {
+					"english": "hour",
+					"russian": "час"
+				}, {
+					"english": "hours (2,3,4)",
+					"russian": "часа"
+				}, {
+					"english": "hours (5+)",
+					"russian": "часов"
+				}, {
+					"english": "private (adj)",
+					"russian": "чáстный"
+				}, {
+					"english": "to work",
+					"russian": "рабóтать"
+				}, {
+					"english": "to study ",
+					"russian": "учи́ться"
+				}, {
+					"english": "in the evening",
+					"russian": "вéчером"
+				}, {
+					"english": "in the day",
+					"russian": "днём"
+				}, {
+					"english": "every day",
+					"russian": "кáждый день"
+				}, {
+					"english": "when",
+					"russian": "когдá"
+				}, {
+					"english": "at night",
+					"russian": "нóчью"
+				}, {
+					"english": "usually",
+					"russian": "обы́чно"
+				}, {
+					"english": "today",
+					"russian": "сегóдня"
+				}, {
+					"english": "how many hours",
+					"russian": "скóлько часóв"
+				}, {
+					"english": "in the morning",
+					"russian": "у́тром"
+				}, {
+					"english": "still",
+					"russian": "ещё"
+				}, {
+					"english": "nowhere",
+					"russian": "нигдé"
+				}, {
+					"english": "nothing",
+					"russian": "ничегó"
+				}, {
+					"english": "already",
+					"russian": "ужé"
+				}
+			]
+		},
+		"Chapter 7": {
+			"Part 1": [{
+					"english": "time",
+					"russian": "врéмя"
+				}, {
+					"english": "month",
+					"russian": "мéсяц"
+				}, {
+					"english": "months (2,3,4)",
+					"russian": "месяца"
+				}, {
+					"english": "months (5+)",
+					"russian": "месяцев"
+				}, {
+					"english": "week",
+					"russian": "недéля"
+				}, {
+					"english": "weeks (2,3,4)",
+					"russian": "недели"
+				}, {
+					"english": "weeks (5+)",
+					"russian": "недель"
+				}, {
+					"english": "time (counting)",
+					"russian": "раз"
+				}, {
+					"english": "times (2,3,4)",
+					"russian": "раза"
+				}, {
+					"english": "times (5+)",
+					"russian": "раз (pl.)"
+				}, {
+					"english": "breakfast",
+					"russian": "зáвтрак"
+				}, {
+					"english": "lunch",
+					"russian": "обéд"
+				}, {
+					"english": "dinner",
+					"russian": "у́жин"
+				}, {
+					"english": "shower",
+					"russian": "душ"
+				}, {
+					"english": "cinema",
+					"russian": "кинó"
+				}, {
+					"english": "lecture",
+					"russian": "лéкция"
+				}, {
+					"english": "music",
+					"russian": "му́зыка"
+				}, {
+					"english": "dishes",
+					"russian": "посу́да"
+				}, {
+					"english": "work, job",
+					"russian": "рабóта"
+				}, {
+					"english": "cafeteria, dining hall",
+					"russian": "столóвая"
+				}, {
+					"english": "exercise (written)",
+					"russian": "упражнéние"
+				}, {
+					"english": "lesson, assignment",
+					"russian": "урóк"
+				}, {
+					"english": "each, every",
+					"russian": "кáждый"
+				}, {
+					"english": "Russian",
+					"russian": "росси́йский"
+				}, {
+					"english": "always",
+					"russian": "всегдá"
+				}, {
+					"english": "sometimes",
+					"russian": "иногдá"
+				}, {
+					"english": "finally",
+					"russian": "наконéц"
+				}, {
+					"english": "usually",
+					"russian": "обы́чно"
+				}, {
+					"english": "late",
+					"russian": "пóздно"
+				}, {
+					"english": "later",
+					"russian": "пóзже"
+				}, {
+					"english": "then, next",
+					"russian": "потóм"
+				}, {
+					"english": "early",
+					"russian": "рáно"
+				}, {
+					"english": "earlier",
+					"russian": "рáньше"
+				}, {
+					"english": "rarely, seldom",
+					"russian": "рéдко"
+				}, {
+					"english": "now, at this moment",
+					"russian": "сейчáс"
+				}, {
+					"english": "at first",
+					"russian": "сначáла"
+				}, {
+					"english": "often",
+					"russian": "чáсто"
+				}, {
+					"english": "quick, quickly",
+					"russian": "бы́стро"
+				}, {
+					"english": "together",
+					"russian": "вмéсте"
+				}, {
+					"english": "(to) home",
+					"russian": "домóй"
+				}, {
+					"english": "(to) where",
+					"russian": "кудá"
+				}, {
+					"english": "never",
+					"russian": "никогдá"
+				}, {
+					"english": "(to) nowhere",
+					"russian": "никудá"
+				}, {
+					"english": "to get up",
+					"russian": "вставáть"
+				}, {
+					"english": "to prepare",
+					"russian": "готóвить"
+				}, {
+					"english": "to be out playing, walking, strolling",
+					"russian": "гуля́ть"
+				}, {
+					"english": "to do",
+					"russian": "дéлать"
+				}, {
+					"english": "to eat breakfast",
+					"russian": "зáвтракать"
+				}, {
+					"english": "to study, do homework",
+					"russian": "занимáться"
+				}, {
+					"english": "to go, be going (on foot)",
+					"russian": "идти́"
+				}, {
+					"english": "to lie, be lying down",
+					"russian": "лежáть"
+				}, {
+					"english": "to lie down to sleep",
+					"russian": "ложи́ться спать"
+				}, {
+					"english": "to wash",
+					"russian": "мыть"
+				}, {
+					"english": "to eat lunch",
+					"russian": "обéдать"
+				}, {
+					"english": "to get dressed",
+					"russian": "одевáться"
+				}, {
+					"english": "to write",
+					"russian": "писáть"
+				}, {
+					"english": "to get undressed",
+					"russian": "раздевáться"
+				}, {
+					"english": "to sit",
+					"russian": "сидéть"
+				}, {
+					"english": "to listen",
+					"russian": "слу́шать"
+				}, {
+					"english": "to watch",
+					"russian": "смотрéть"
+				}, {
+					"english": "to sleep",
+					"russian": "спать"
+				}, {
+					"english": "to do laundry",
+					"russian": "стирáть"
+				}, {
+					"english": "to stand",
+					"russian": "стоя́ть"
+				}, {
+					"english": "to clean (as in a space)",
+					"russian": "убирáть"
+				}, {
+					"english": "to eat dinner",
+					"russian": "у́жинать"
+				}, {
+					"english": "to go (multi-dir.)",
+					"russian": "ходи́ть"
+				}, {
+					"english": "to read",
+					"russian": "читáть"
+				}, {
+					"english": "At what time?",
+					"russian": "Во скóлько?"
+				}, {
+					"english": "the whole family",
+					"russian": "вся семья́"
+				}, {
+					"english": "What time is it?",
+					"russian": "Котóрый час?"
+				}, {
+					"english": "on the telephone",
+					"russian": "по телефóну"
+				}, {
+					"english": "What time is it (now)?",
+					"russian": "Скóлько сейчáс врéмени?"
+				}, {
+					"english": "every morning",
+					"russian": "ка́ждое у́тро"
+				}, {
+					"english": "every week",
+					"russian": "ка́ждую неде́лю"
+				}, {
+					"english": "every evening",
+					"russian": "ка́ждый ве́чер"
+				}, {
+					"english": "during the evening",
+					"russian": "ве́чером"
+				}, {
+					"english": "during the morning",
+					"russian": "у́тром"
+				}, {
+					"english": "during the day",
+					"russian": "днём"
+				}, {
+					"english": "during the night",
+					"russian": "но́чю"
+				}
+			]
+		},
+		"Chapter 8": {
+			"Part 1": [{
+					"english": "balalaika",
+					"russian": "балалáйка"
+				}, {
+					"english": "drum",
+					"russian": "барабáн"
+				}, {
+					"english": "cello",
+					"russian": "виолончéль"
+				}, {
+					"english": "guitar",
+					"russian": "гитáра"
+				}, {
+					"english": "clarinet",
+					"russian": "кларнéт"
+				}, {
+					"english": "piano",
+					"russian": "пиани́но"
+				}, {
+					"english": "grand piano",
+					"russian": "роя́ль"
+				}, {
+					"english": "violin",
+					"russian": "скри́пка"
+				}, {
+					"english": "guitarist",
+					"russian": "гитари́ст"
+				}, {
+					"english": "pianist",
+					"russian": "пиани́ст"
+				}, {
+					"english": "violinist",
+					"russian": "скрипáч"
+				}, {
+					"english": "ballet",
+					"russian": "балéт"
+				}, {
+					"english": "jazz",
+					"russian": "джаз"
+				}, {
+					"english": "instrument",
+					"russian": "инструмéнт"
+				}, {
+					"english": "music",
+					"russian": "му́зыка"
+				}, {
+					"english": "opera",
+					"russian": "óпера"
+				}, {
+					"english": "singer",
+					"russian": "певéц"
+				}, {
+					"english": "song",
+					"russian": "пéсня"
+				}, {
+					"english": "rock group",
+					"russian": "рок-гру́ппа"
+				}, {
+					"english": "rock music",
+					"russian": "рок-му́зыка"
+				}, {
+					"english": "American football (noun)",
+					"russian": "америкáнский футбол"
+				}, {
+					"english": "basketball (noun)",
+					"russian": "баскетбóл"
+				}, {
+					"english": "baseball (noun)",
+					"russian": "бейсбóл"
+				}, {
+					"english": "boxing (noun)",
+					"russian": "бокс"
+				}, {
+					"english": "volleyball (noun)",
+					"russian": "волейбóл"
+				}, {
+					"english": "swimming",
+					"russian": "плáвание"
+				}, {
+					"english": "tennis (noun)",
+					"russian": "тéннис"
+				}, {
+					"english": "soccer (noun)",
+					"russian": "футбóл"
+				}, {
+					"english": "hockey (noun)",
+					"russian": "хоккéй"
+				}, {
+					"english": "chess (noun)",
+					"russian": "шáхматы"
+				}, {
+					"english": "baseball player",
+					"russian": "бейсболи́ст"
+				}, {
+					"english": "tennis player",
+					"russian": "теннист/-ка"
+				}, {
+					"english": "figure skater",
+					"russian": "фигури́ст/-ка"
+				}, {
+					"english": "hockey player",
+					"russian": "хоккеи́ст/-ка"
+				}, {
+					"english": "chess player",
+					"russian": "шахмати́ст/-ка"
+				}, {
+					"english": "type/kind of sport",
+					"russian": "вид спóрта"
+				}, {
+					"english": "team",
+					"russian": "комáнда"
+				}, {
+					"english": "sports",
+					"russian": "спорт"
+				}, {
+					"english": "ballerina",
+					"russian": "балери́на"
+				}, {
+					"english": "detective novels",
+					"russian": "детекти́вы"
+				}, {
+					"english": "art",
+					"russian": "иску́сство"
+				}, {
+					"english": "literature",
+					"russian": "литерату́ра"
+				}, {
+					"english": "poetry",
+					"russian": "поэзия"
+				}, {
+					"english": "fairy tale",
+					"russian": "скáзка"
+				}, {
+					"english": "dancer",
+					"russian": "танцóр"
+				}, {
+					"english": "science fiction, fantasy",
+					"russian": "фантáстика"
+				}, {
+					"english": "artist, painter",
+					"russian": "худóжник"
+				}, {
+					"english": "basketball (adj.)",
+					"russian": "баскетбóльный"
+				}, {
+					"english": "baseball (adj.)",
+					"russian": "бейсбóльный"
+				}, {
+					"english": "football (adj.)",
+					"russian": "футбóльный"
+				}, {
+					"english": "hockey (adj.)",
+					"russian": "хоккéйный"
+				}, {
+					"english": "children's",
+					"russian": "дéтский"
+				}, {
+					"english": "classical",
+					"russian": "класси́ческий"
+				}, {
+					"english": "favorite",
+					"russian": "люби́мый"
+				}, {
+					"english": "folk",
+					"russian": "нарóдный"
+				}, {
+					"english": "popular",
+					"russian": "популя́рный"
+				}, {
+					"english": "modern, contemporary",
+					"russian": "совремéнный"
+				}, {
+					"english": "to play",
+					"russian": "игрáть"
+				}, {
+					"english": "to love, like",
+					"russian": "люби́ть"
+				}, {
+					"english": "to sing",
+					"russian": "петь"
+				}, {
+					"english": "to dance",
+					"russian": "танцевáть"
+				}, {
+					"english": "more, bigger",
+					"russian": "бóльше"
+				}, {
+					"english": "of course",
+					"russian": "конéчно"
+				}, {
+					"english": "especially, particularly",
+					"russian": "осóбенно"
+				}
+			]
+		},
+		"Chapter 9": {
+			"Part 1": [{
+					"english": "spring",
+					"russian": "веснá"
+				}, {
+					"english": "time",
+					"russian": "врéмя"
+				}, {
+					"english": "time of year",
+					"russian": "врéмя года"
+				}, {
+					"english": "free time",
+					"russian": "свобóдное врéмя"
+				}, {
+					"english": "winter",
+					"russian": "зимá"
+				}, {
+					"english": "summer",
+					"russian": "лéто"
+				}, {
+					"english": "autumn",
+					"russian": "óсень"
+				}, {
+					"english": "Russian nesting doll",
+					"russian": "матрёшка"
+				}, {
+					"english": "samovar",
+					"russian": "самовáр"
+				}, {
+					"english": "souvenir",
+					"russian": "сувени́р"
+				}, {
+					"english": "bath-house",
+					"russian": "бáня"
+				}, {
+					"english": "water",
+					"russian": "водá"
+				}, {
+					"english": "forest",
+					"russian": "лес"
+				}, {
+					"english": "people",
+					"russian": "лю́ди"
+				}, {
+					"english": "who, which, that",
+					"russian": "котóрый"
+				}, {
+					"english": "free",
+					"russian": "свобóдный"
+				}, {
+					"english": "to run",
+					"russian": "бéгать"
+				}, {
+					"english": "to be",
+					"russian": "быть"
+				}, {
+					"english": "to go/travel (by vehicle; multi-dir.)",
+					"russian": "éздить"
+				}, {
+					"english": "to ride on horseback",
+					"russian": "éздить верхом"
+				}, {
+					"english": "to roll/ride",
+					"russian": "катáться"
+				}, {
+					"english": "to buy",
+					"russian": "купи́ть"
+				}, {
+					"english": "to rest, relax",
+					"russian": "отдыхáть"
+				}, {
+					"english": "to swim",
+					"russian": "плáвать"
+				}, {
+					"english": "to know how to",
+					"russian": "умéть"
+				}, {
+					"english": "why",
+					"russian": "почему́"
+				}, {
+					"english": "last year",
+					"russian": "в прóшлом году́"
+				}, {
+					"english": "in the spring",
+					"russian": "веснóй"
+				}, {
+					"english": "yesterday",
+					"russian": "вчерá"
+				}, {
+					"english": "for a long time",
+					"russian": "дóлго"
+				}, {
+					"english": "in the winter",
+					"russian": "зимóй"
+				}, {
+					"english": "in the summer",
+					"russian": "лéтом"
+				}, {
+					"english": "ago",
+					"russian": "назáд"
+				}, {
+					"english": "in the fall/autumn",
+					"russian": "óсенью"
+				}, {
+					"english": "before, earlier",
+					"russian": "рáньше"
+				}, {
+					"english": "out of town",
+					"russian": "зá город"
+				}, {
+					"english": "one can/may",
+					"russian": "мóжно"
+				}, {
+					"english": "because, since",
+					"russian": "так как"
+				}
+			]
+		},
+		"Numerals": {
+			"Part 1": [{
+					"english": "1",
+					"russian": "один"
+				}, {
+					"english": "2",
+					"russian": "два"
+				}, {
+					"english": "3",
+					"russian": "три"
+				}, {
+					"english": "4",
+					"russian": "четыре"
+				}, {
+					"english": "5",
+					"russian": "пять"
+				}, {
+					"english": "6",
+					"russian": "шесть"
+				}, {
+					"english": "7",
+					"russian": "семь"
+				}, {
+					"english": "8",
+					"russian": "восемь"
+				}, {
+					"english": "9",
+					"russian": "девять"
+				}, {
+					"english": "10",
+					"russian": "десять"
+				}, {
+					"english": "11",
+					"russian": "одиннадцать"
+				}, {
+					"english": "12",
+					"russian": "двенадцать"
+				}, {
+					"english": "13",
+					"russian": "тринадцать"
+				}, {
+					"english": "14",
+					"russian": "четырнадцатьи"
+				}, {
+					"english": "15",
+					"russian": "пятнадцать"
+				}, {
+					"english": "16",
+					"russian": "шестнадцать"
+				}, {
+					"english": "17",
+					"russian": "семнадцать"
+				}, {
+					"english": "18",
+					"russian": "восемнадцать"
+				}, {
+					"english": "19",
+					"russian": "девятнадцать"
+				}, {
+					"english": "20",
+					"russian": "двадцать"
+				}, {
+					"english": "30",
+					"russian": "тридцать"
+				}, {
+					"english": "40",
+					"russian": "сорок"
+				}, {
+					"english": "50",
+					"russian": "пятьдесят"
+				}, {
+					"english": "60",
+					"russian": "шестьдесят"
+				}, {
+					"english": "70",
+					"russian": "семьдесят"
+				}, {
+					"english": "80",
+					"russian": "восемьдесят"
+				}, {
+					"english": "90",
+					"russian": "девяносто"
+				}, {
+					"english": "100",
+					"russian": "сто"
+				}, {
+					"english": "200",
+					"russian": "двести"
+				}, {
+					"english": "300",
+					"russian": "триста"
+				}, {
+					"english": "400",
+					"russian": "четыреста"
+				}, {
+					"english": "500",
+					"russian": "пятьсот"
+				}, {
+					"english": "600",
+					"russian": "шестьсот"
+				}, {
+					"english": "700",
+					"russian": "семьсот"
+				}, {
+					"english": "800",
+					"russian": "восемьсот"
+				}, {
+					"english": "900",
+					"russian": "девятьсот"
+				}, {
+					"english": "1000",
+					"russian": "тысяча"
+				}
+			]
+		}
+	}
+}
